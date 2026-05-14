@@ -14,11 +14,13 @@
 
 ## 来源
 
-本仓库改编自 Anthropic 发布的开源项目 `Claude for Legal`：
+这些 skill 的原始素材来自 Anthropic PBC 发布的开源项目 `Claude for Legal`。原项目发布在 GitHub，内容是面向 Claude 的法律工作流和 skill 示例，覆盖商事合同、公司治理、隐私与数据、人工智能治理、知识产权、劳动用工、争议解决、监管合规、法律援助和法律学习等场景。
 
 https://github.com/anthropics/claude-for-legal
 
-原项目版权归 Anthropic PBC 所有，许可证为 Apache License 2.0。本仓库保留原始许可证和来源说明。
+原项目版权归 Anthropic PBC 所有，许可证为 Apache License 2.0。本仓库基于该开源项目做 WorkBuddy 中国法务场景适配，保留了原项目的 `LICENSE` 和 `NOTICE` 文件，并在 `NOTICE` 中说明了改编来源。
+
+本仓库的改编重点是把原始法律类 skill 整理成可以上传到 WorkBuddy 的中文压缩包，同时补充中国大陆法律和监管语境下的使用提示。使用时请结合具体事实、业务场景和现行法律法规进行专业复核。
 
 ## 做了哪些适配
 
