@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "数据合规与个人信息保护-个性化配置"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your privacy practice profile — change one thing without
   re-running the whole cold-start interview. Adjust risk posture, escalation contacts, DPA
   playbook, privacy policy commitments, PIA house style, DSAR process, or matter workspace

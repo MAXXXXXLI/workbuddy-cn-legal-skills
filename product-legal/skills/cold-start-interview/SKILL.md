@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "产品合规法务-初始化访谈"
 description: >
+  用于中国大陆产品合规法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Cold-start interview — connects to your launch tracker, reads past reviews, learns your
   risk calibration. Use on fresh install, when onboarding product counsel, or when the
   plugin config has placeholders. Run with --redo to re-interview, or --check-integrations

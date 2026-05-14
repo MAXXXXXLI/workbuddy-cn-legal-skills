@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "争议解决法务-初始化访谈"
 description: >
+  用于中国大陆争议解决法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   House cold-start for the litigation plugin — branches by role (in-house, firm associate,
   solo) and side (plaintiff, defense, both), captures risk calibration, landscape, and
   house style, and writes the practice profile CLAUDE.md. Use on a fresh install, when the

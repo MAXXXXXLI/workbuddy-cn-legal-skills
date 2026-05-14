@@ -1,6 +1,7 @@
 ---
-name: entity-compliance
+name: "公司与交易法务-主体合规"
 description: >
+  用于中国大陆公司与交易法务场景下的主体合规。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Entity compliance tracker — initialize, report upcoming deadlines, update status, run
   health audit, export to CSV. Maintains a compliance-tracker.yaml built from the entity
   table, calculates filing deadlines by entity and jurisdiction, and surfaces what's due

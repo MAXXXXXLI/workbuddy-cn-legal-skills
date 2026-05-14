@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "知识产权法务-初始化访谈"
 description: >
+  用于中国大陆知识产权法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Run the cold-start interview to learn your IP practice and write your practice profile.
   Use on first install when the practice profile is missing or still contains
   placeholders, when re-onboarding with --redo, or when re-probing integrations with

@@ -1,6 +1,7 @@
 ---
-name: irac-practice
+name: "中国法学习-IRAC 练习"
 description: >
+  用于中国大陆中国法学习场景下的IRAC 练习。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Grade an IRAC essay for structure, issue-spotting, rule accuracy, analysis depth, and
   organization. Does NOT rewrite the essay or show a model answer; tracks patterns across
   sessions. Use when the user says "grade my IRAC", "check my essay", or "I wrote this,

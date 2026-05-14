@@ -1,6 +1,7 @@
 ---
-name: investigation-open
+name: "劳动用工法务-开启内部调查"
 description: >
+  用于中国大陆劳动用工法务场景下的开启内部调查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Open a new internal investigation matter — runs intake, generates the sources checklist,
   and creates the persistent investigation log. Use when a complaint or allegation comes
   in and the attorney needs to stand up a privileged investigation workspace. WorkBuddy

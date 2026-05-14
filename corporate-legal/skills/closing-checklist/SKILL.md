@@ -1,6 +1,7 @@
 ---
-name: closing-checklist
+name: "公司与交易法务-交割清单"
 description: >
+  用于中国大陆公司与交易法务场景下的交割清单。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   What's blocking close — maintain the closing checklist with status, critical path, and
   days to close. Self-updating: ingests new items from diligence findings and schedule
   builds, tracks status, surfaces what's blocking. Use when user says "closing checklist",

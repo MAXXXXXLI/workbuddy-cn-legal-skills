@@ -1,6 +1,7 @@
 ---
-name: use-case-triage
+name: "数据合规与个人信息保护-用例分级"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的用例分级。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Quickly determine whether a processing activity needs a PIA, a mandatory GDPR DPIA, or
   can proceed — surfaces privacy policy conflicts and routes to the right next step. Use
   when the user asks "does this need a PIA", "triage this feature", "privacy check on X",

@@ -1,6 +1,7 @@
 ---
-name: marketing-claims-review
+name: "产品合规法务-广告宣传审查"
 description: >
+  用于中国大陆产品合规法务场景下的广告宣传审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review marketing copy for claims that need substantiation, reframing, or cutting. Use
   when the user says "review this marketing copy", "check these claims", "can we say
   this", "is this puffery or a problem", or pastes marketing content (landing pages,

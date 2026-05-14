@@ -1,6 +1,7 @@
 ---
-name: portfolio
+name: "知识产权法务-知识产权组合台账"
 description: >
+  用于中国大陆知识产权法务场景下的知识产权组合台账。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Track the IP portfolio — registrations, renewals, maintenance fees, and use
   declarations. Use when checking what's renewing, adding or updating an asset, recording
   a maintenance filing, or auditing the register for gaps, lapses, and use-in-commerce

@@ -1,6 +1,7 @@
 ---
-name: internal-investigation
+name: "劳动用工法务-内部调查"
 description: >
+  用于中国大陆劳动用工法务场景下的内部调查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: shared framework for managing internal investigations from intake through
   final memo — privileged investigation log, document processing with needle-finding,
   source coverage tracking, Q&A against the log, memo drafting, and audience summaries.

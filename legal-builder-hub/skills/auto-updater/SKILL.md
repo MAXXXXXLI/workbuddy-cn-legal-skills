@@ -1,6 +1,7 @@
 ---
-name: auto-updater
+name: "技能治理中心-技能更新检查"
 description: >
+  用于中国大陆技能治理中心场景下的技能更新检查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Check installed community skills for updates. Shows a diff and requires explicit
   approval before applying. Use when the user says "check for updates", "update my
   skills", "anything new for my installed skills", or when invoked from the registry-sync

@@ -1,6 +1,7 @@
 ---
-name: cold-call-prep
+name: "中国法学习-课堂问答准备"
 description: >
+  用于中国大陆中国法学习场景下的课堂问答准备。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Prep for a cold-call — predict the professor's likely questions and drill them
   Socratically, flagging where you're shaky so you know what to re-read before class. Use
   when the user says "prep for class tomorrow", "cold call [case]", "what might

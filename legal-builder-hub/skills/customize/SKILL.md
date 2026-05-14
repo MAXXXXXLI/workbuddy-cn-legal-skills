@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "技能治理中心-个性化配置"
 description: >
+  用于中国大陆技能治理中心场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your Legal Builder Hub profile — change one thing without
   re-running the whole cold-start interview. Adjust practice profile, installed starter
   pack, watched registries, update preferences, or QA strictness. Use when the user says

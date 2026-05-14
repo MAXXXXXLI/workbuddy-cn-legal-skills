@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "监管合规法务-初始化访谈"
 description: >
+  用于中国大陆监管合规法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Cold-start interview — builds your watchlist, indexes the policy library, and learns
   your materiality threshold so the monitor surfaces signal instead of noise. Use on fresh
   install, when reconfiguring (--redo), or when re-checking what connectors are actually

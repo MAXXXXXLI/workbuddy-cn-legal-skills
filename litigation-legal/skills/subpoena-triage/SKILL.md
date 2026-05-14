@@ -1,6 +1,7 @@
 ---
-name: subpoena-triage
+name: "争议解决法务-协助调查/调取材料初筛"
 description: >
+  用于中国大陆争议解决法务场景下的协助调查/调取材料初筛。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Triage a 法院/仲裁机构调查取证或协助调查文件 served on the company — classify it, analyze
   scope/burden/privilege, cross-check the portfolio, and produce an objections framework,
   compliance plan, and deadline calendar. Use when the user says "we got a

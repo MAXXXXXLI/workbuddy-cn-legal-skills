@@ -1,6 +1,7 @@
 ---
-name: pia-generation
+name: "数据合规与个人信息保护-个人信息保护影响评估"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的个人信息保护影响评估。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Generate a Privacy Impact Assessment in house format for a new feature, product, or
   processing activity, using the structure learned from your seed PIA. Use when the user
   says "write a PIA", "privacy impact assessment for", "do we need a PIA for this",

@@ -1,6 +1,7 @@
 ---
-name: skill-manager
+name: "技能治理中心-技能管理"
 description: >
+  用于中国大陆技能治理中心场景下的技能管理。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: detailed uninstall, disable, and re-enable workflows for community skills
   installed via the legal builder hub. Safe by default — refuses to touch first-party
   plugin skills, confirms before removing files, and logs every action. Loaded by the

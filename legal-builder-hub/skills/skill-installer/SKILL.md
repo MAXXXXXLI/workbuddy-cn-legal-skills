@@ -1,6 +1,7 @@
 ---
-name: skill-installer
+name: "技能治理中心-技能安装"
 description: >
+  用于中国大陆技能治理中心场景下的技能安装。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Install a community skill from a watched registry. Reads the allowlist first, fetches,
   shows the RAW SKILL.md (not just a summary), runs structural trust checks, runs
   skills-qa, and only writes files after explicit user approval. Use when the user says

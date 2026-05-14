@@ -1,6 +1,7 @@
 ---
-name: socratic-drill
+name: "中国法学习-苏格拉底式练习"
 description: >
+  用于中国大陆中国法学习场景下的苏格拉底式练习。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Socratic drilling — it asks, you answer, it pushes back. Does NOT give you the answer
   until you've earned it. Use when the user says "drill me on", "quiz me", "socratic",
   "test me on [subject]", or wants to study actively. WorkBuddy

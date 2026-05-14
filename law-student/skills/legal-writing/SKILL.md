@@ -1,6 +1,7 @@
 ---
-name: legal-writing
+name: "中国法学习-法律写作点评"
 description: >
+  用于中国大陆中国法学习场景下的法律写作点评。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Structural feedback on a legal writing draft (memo, brief, paper, exam essay) —
   organization, analysis depth, clarity, citation form. NEVER rewrites the draft. Use when
   the user says "feedback on my memo", "read my draft", or "critique my brief". WorkBuddy

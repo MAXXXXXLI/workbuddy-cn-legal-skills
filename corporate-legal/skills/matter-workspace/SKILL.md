@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "公司与交易法务-事项工作区"
 description: >
+  用于中国大陆公司与交易法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — create, list, switch, close, or detach the active matter so
   multi-client practitioners keep one client's context separate from every other. Read by
   any substantive skill that needs to know what matter it's working in. Use when user says

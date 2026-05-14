@@ -1,6 +1,7 @@
 ---
-name: clearance
+name: "知识产权法务-商标/品牌检索初筛"
 description: >
+  用于中国大陆知识产权法务场景下的商标/品牌检索初筛。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Trademark clearance first pass — knockout + similar-marks check producing a flag list,
   not a clearance opinion. Use when a new mark is proposed, when asked whether a mark is
   available or to run a knockout search, or when assessing likelihood-of-confusion factors

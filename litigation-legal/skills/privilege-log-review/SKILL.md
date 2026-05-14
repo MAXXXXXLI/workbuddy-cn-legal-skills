@@ -1,6 +1,7 @@
 ---
-name: privilege-log-review
+name: "争议解决法务-保密/特权日志审查"
 description: >
+  用于中国大陆争议解决法务场景下的保密/特权日志审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   First-pass privilege log review — make the obvious privilege calls and flag the hard
   ones for attorney review without making close calls. Use when the user says "review the
   privilege log", "priv log", "check privilege on these docs", or has a log to QA before

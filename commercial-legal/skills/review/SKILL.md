@@ -1,6 +1,7 @@
 ---
-name: review
+name: "商事合同法务-合同审查"
 description: >
+  用于中国大陆商事合同法务场景下的合同审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review a vendor agreement, NDA, or SaaS subscription against your playbook. Identifies
   the agreement structure from titles, routes to the right review skill
   (vendor-agreement-review, nda-review, saas-msa-review), and integrates the output into a

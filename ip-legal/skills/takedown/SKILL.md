@@ -1,6 +1,7 @@
 ---
-name: takedown
+name: "知识产权法务-平台投诉/下架通知"
 description: >
+  用于中国大陆知识产权法务场景下的平台投诉/下架通知。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft a 平台投诉/通知-删除机制 takedown notice, triage one you received, or draft a §512(g)
   counter-notice. Use when asserting copyright through a §512(c)(3) takedown with the
   fair-use and perjury gates, when an incoming takedown needs triage into comply / counter

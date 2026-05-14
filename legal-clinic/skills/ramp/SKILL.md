@@ -1,6 +1,7 @@
 ---
-name: ramp
+name: "法律诊所/法律援助-诊所上手培训"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的诊所上手培训。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Student semester onboarding — clinic procedures, tool walkthrough, practice exercises
   before real cases. Reads the handbook the professor uploaded at setup and teaches it
   interactively. Use when a new clinic student says "onboard me", "I'm new to the clinic",

@@ -1,6 +1,7 @@
 ---
-name: feature-risk-assessment
+name: "产品合规法务-功能风险评估"
 description: >
+  用于中国大陆产品合规法务场景下的功能风险评估。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Deeper risk assessment for a single feature or product area when the launch review found
   something that needs more than a line item. Structured analysis: what could go wrong,
   how likely, how bad, what mitigates it. Use when user says "deep dive on this risk",

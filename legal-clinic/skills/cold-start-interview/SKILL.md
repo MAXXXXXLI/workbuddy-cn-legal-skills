@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "法律诊所/法律援助-初始化访谈"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Professor's one-time clinic setup — practice areas, jurisdiction, supervision style
   (formal review queue / configurable flags / lighter-touch), and handbook/rules upload.
   Writes CLAUDE.md so every other skill and every student who runs /ramp reads from the

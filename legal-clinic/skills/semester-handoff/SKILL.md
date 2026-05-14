@@ -1,6 +1,7 @@
 ---
-name: semester-handoff
+name: "法律诊所/法律援助-学期交接"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的学期交接。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   End-of-semester case handoff memos — the mirror of /ramp. Produces per-case transition
   memos and a cohort summary so the departing cohort hands work to the incoming cohort
   cleanly. Reads deadlines, client-comms, and case history. Use when the professor or

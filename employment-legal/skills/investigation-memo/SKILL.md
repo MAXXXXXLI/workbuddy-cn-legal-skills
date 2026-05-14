@@ -1,6 +1,7 @@
 ---
-name: investigation-memo
+name: "劳动用工法务-调查备忘录"
 description: >
+  用于中国大陆劳动用工法务场景下的调查备忘录。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft or update the privileged investigation memo from the investigation log. Use when
   an investigation is far enough along to write the first memo cut, or when new data has
   been added and the existing draft needs updating. WorkBuddy

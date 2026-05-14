@@ -1,6 +1,7 @@
 ---
-name: matter-close
+name: "争议解决法务-事项关闭"
 description: >
+  用于中国大陆争议解决法务场景下的事项关闭。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Close a matter — capture outcome, final exposure, and lessons, then archive it out of
   the active portfolio without deleting the record. Use when the user wants to close a
   matter, says "[matter] is done", or needs to record a settlement, dismissal, judgment,

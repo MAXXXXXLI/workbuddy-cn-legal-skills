@@ -1,6 +1,7 @@
 ---
-name: skills-qa
+name: "技能治理中心-技能质量审查"
 description: >
+  用于中国大陆技能治理中心场景下的技能质量审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Evaluate a skill against the Legal Skill Design Framework — thirteen design parameters
   (including trust-surface, freshness, schema validation, and conflict detection), three
   legal failure modes, and a three-band verdict (Ready / Some Concern / Material

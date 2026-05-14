@@ -1,6 +1,7 @@
 ---
-name: infringement-triage
+name: "知识产权法务-侵权初筛"
 description: >
+  用于中国大陆知识产权法务场景下的侵权初筛。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Infringement triage across trademark, copyright, patent, and trade secret — a flag list
   with the factors cutting each way, not a finding. Use when assessing whether someone is
   infringing your IP or whether you might be infringing theirs, when a knockoff or copycat

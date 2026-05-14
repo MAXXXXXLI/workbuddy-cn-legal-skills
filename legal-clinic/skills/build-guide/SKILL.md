@@ -1,6 +1,7 @@
 ---
-name: build-guide
+name: "法律诊所/法律援助-诊所搭建指南"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的诊所搭建指南。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Help a clinic supervisor author a practice-area guide that configures how student-facing
   skills behave — intake questions, pedagogy posture (assist / guide / teach), review
   gates, cross-plugin checks, and local rules. Use when a supervising attorney wants to

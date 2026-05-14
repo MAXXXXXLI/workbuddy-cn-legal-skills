@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "AI 治理法务-事项工作区"
 description: >
+  用于中国大陆AI 治理法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — new, list, switch, close, or detach (practice-level).
   File-management logic for keeping one client or engagement's context separate from every
   other. Use when working across multiple clients or matters, when the user says "new

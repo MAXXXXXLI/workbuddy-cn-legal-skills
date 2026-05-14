@@ -1,6 +1,7 @@
 ---
-name: claim-chart
+name: "争议解决法务-请求权/权利要求对照表"
 description: >
+  用于中国大陆争议解决法务场景下的请求权/权利要求对照表。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Build or review an element chart — a patent claim chart (infringement, invalidity, or
   review) or a civil element chart for any cause of action or defense — with every cell
   pin-cited and gap detection as the priority output. Use when the user asks for a claim

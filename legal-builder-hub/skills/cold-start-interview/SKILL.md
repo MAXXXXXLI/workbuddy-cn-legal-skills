@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "技能治理中心-初始化访谈"
 description: >
+  用于中国大陆技能治理中心场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Practice-profile interview that recommends and installs a starter pack of community
   legal skills. This IS the cold start for the whole ecosystem — it asks what kind of
   lawyer you are and recommends what to install first. Use on fresh install, when the user

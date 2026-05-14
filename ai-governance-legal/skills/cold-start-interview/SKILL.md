@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "AI 治理法务-初始化访谈"
 description: >
+  用于中国大陆AI 治理法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Run the cold-start interview — learns your AI governance practice and writes
   `~/.workbuddy/skills/config/workbuddy-cn-legal/ai-governance-legal/CLAUDE.md` from your
   AI policy, a reference impact assessment, and key vendor AI agreements. Use when the

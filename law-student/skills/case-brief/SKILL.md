@@ -1,6 +1,7 @@
 ---
-name: case-brief
+name: "中国法学习-案例摘要"
 description: >
+  用于中国大陆中国法学习场景下的案例摘要。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Brief a case in your preferred format. In drill-me mode, makes the student state the
   holding first. Use when the user says "brief [case]", "what's the holding in", "case
   brief", or pastes a case. WorkBuddy

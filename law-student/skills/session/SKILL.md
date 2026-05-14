@@ -1,6 +1,7 @@
 ---
-name: session
+name: "中国法学习-学习会话"
 description: >
+  用于中国大陆中国法学习场景下的学习会话。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Run a focused N-question study session on a subject — 法考客观题, essay, or flashcards.
   Tracks performance and updates the study plan. Use when the user says "run me 10
   questions on [subject]", "do a session on [subject]", "let's do 5 cards on [subject]",

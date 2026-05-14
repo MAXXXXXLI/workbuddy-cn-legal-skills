@@ -1,6 +1,7 @@
 ---
-name: draft
+name: "法律诊所/法律援助-法律文书草拟"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的法律文书草拟。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   First draft of a common clinic document — practice-area templates (asylum applications,
   eviction answers, protective order petitions, demand letters), jurisdiction-aware
   formatting, explicitly a starting point requiring student analysis and attorney review.

@@ -1,6 +1,7 @@
 ---
-name: registry-browser
+name: "技能治理中心-技能库浏览"
 description: >
+  用于中国大陆技能治理中心场景下的技能库浏览。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Search watched registries for community legal skills, showing matches with descriptions
   and offering to show the full SKILL.md before install. Use when the user says "browse",
   "search skills", "find a skill for", "what's out there for", or wants to add a new

@@ -1,6 +1,7 @@
 ---
-name: nda-review
+name: "商事合同法务-保密协议审查"
 description: >
+  用于中国大陆商事合同法务场景下的保密协议审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: fast triage of inbound NDAs into GREEN / YELLOW / RED so the team only spends
   lawyer time on the ones that need it. Built for sales and BD to self-serve before
   pinging legal. Loaded by /commercial-legal:review when an NDA is detected. WorkBuddy

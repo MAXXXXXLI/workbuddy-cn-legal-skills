@@ -1,6 +1,7 @@
 ---
-name: demand-intake
+name: "争议解决法务-催告/索赔事项接谈"
 description: >
+  用于中国大陆争议解决法务场景下的催告/索赔事项接谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Pre-drafting context gathering for a demand letter — parties, facts, basis, leverage,
   BATNA, and privilege filters — written to a structured intake.md the demand-draft skill
   reads. Use when the user wants to prep a demand letter, run intake before drafting, or

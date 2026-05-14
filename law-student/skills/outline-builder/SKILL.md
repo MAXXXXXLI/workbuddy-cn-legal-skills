@@ -1,6 +1,7 @@
 ---
-name: outline-builder
+name: "中国法学习-课程大纲"
 description: >
+  用于中国大陆中国法学习场景下的课程大纲。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Build or extend a course outline in your format, from class notes and casebook.
   Scaffolds — it does not write the outline for you. Use when the user says "outline
   [subject]", "add to my outline", "build an outline from", or points at class materials.

@@ -1,6 +1,7 @@
 ---
-name: comments
+name: "监管合规法务-征求意见跟踪"
 description: >
+  用于中国大陆监管合规法务场景下的征求意见跟踪。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review open 征求意见稿/公开征求意见 comment periods, log decisions, track deadlines. Use when an
   征求意见稿/公开征求意见 has a comment window open and you need to surface deadlines, decide whether
   to file, or record a filing / not-filing / waived decision (--decide CMT-ID). WorkBuddy

@@ -1,6 +1,7 @@
 ---
-name: brief-section-drafter
+name: "争议解决法务-诉讼文书章节起草"
 description: >
+  用于中国大陆争议解决法务场景下的诉讼文书章节起草。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft a brief section in house style, consistent with the case theory — every fact
   cited, every case checked, every argument tied to the theory. Use when the user says
   "draft the [section]", "write the statement of facts", "argument section on [issue]", or

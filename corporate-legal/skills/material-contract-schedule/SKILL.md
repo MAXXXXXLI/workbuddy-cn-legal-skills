@@ -1,6 +1,7 @@
 ---
-name: material-contract-schedule
+name: "公司与交易法务-重大合同清单"
 description: >
+  用于中国大陆公司与交易法务场景下的重大合同清单。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Build the material contracts disclosure schedule from diligence findings, applying the
   purchase agreement's Material Contract definition and formatting per the agreement's
   schedule format. Use when user says "build the contracts schedule", "disclosure

@@ -1,6 +1,7 @@
 ---
-name: wage-hour-qa
+name: "劳动用工法务-工时薪酬问答"
 description: >
+  用于中国大陆劳动用工法务场景下的工时薪酬问答。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Jurisdiction-aware wage/hour and employment Q&A — classification, overtime, meal/rest
   breaks, leave, final pay — answered for the specific state/country with the controlling
   rule researched and cited rather than stated from memory. Use when the user asks any

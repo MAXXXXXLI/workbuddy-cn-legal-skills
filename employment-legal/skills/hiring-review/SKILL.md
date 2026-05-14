@@ -1,6 +1,7 @@
 ---
-name: hiring-review
+name: "劳动用工法务-招聘录用审查"
 description: >
+  用于中国大陆劳动用工法务场景下的招聘录用审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review an offer letter and any restrictive covenants — jurisdiction check included.
   Substantive rules (covenant enforceability, pay-transparency, salary-history limits,
   exemption criteria) are researched per hire, not stored. Use when the user says "review

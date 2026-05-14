@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "劳动用工法务-个性化配置"
 description: >
+  用于中国大陆劳动用工法务场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your employment practice profile — change one thing without
   re-running the whole cold-start interview. Adjust jurisdictional footprint, risk
   posture, escalation contacts, hiring review rules, termination review rules, handbook

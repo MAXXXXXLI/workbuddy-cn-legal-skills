@@ -1,6 +1,7 @@
 ---
-name: expansion-kickoff
+name: "劳动用工法务-境内外用工扩张启动"
 description: >
+  用于中国大陆劳动用工法务场景下的境内外用工扩张启动。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Kick off international expansion planning for a new country — gathers intake, runs EOR
   vs. entity framing, drafts cross-functional questions, surfaces country-specific flags,
   and creates a persistent tracker. Use when someone says "we're hiring in [country]",

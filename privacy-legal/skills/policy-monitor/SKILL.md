@@ -1,6 +1,7 @@
 ---
-name: policy-monitor
+name: "数据合规与个人信息保护-政策漂移监测"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的政策漂移监测。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Keep the privacy policy current with practice. Two modes: weekly sweep of saved PIAs,
   DPA reviews, and triage results to find policy drift; or direct query for a proposed new
   practice. Use when the user asks "does our policy cover this", "we want to start doing X

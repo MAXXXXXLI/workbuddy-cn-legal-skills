@@ -1,6 +1,7 @@
 ---
-name: matter-intake
+name: "争议解决法务-事项接收"
 description: >
+  用于中国大陆争议解决法务场景下的事项接收。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Intake a new matter — uniform questions covering identification, conflicts, source, risk
   triage, materiality, outside counsel, owners, legal hold, and key dates; writes
   matter.md and history.md and appends a structured row to _log.yaml. Use when the user

@@ -1,6 +1,7 @@
 ---
-name: uninstall
+name: "技能治理中心-卸载技能"
 description: >
+  用于中国大陆技能治理中心场景下的卸载技能。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Uninstall a community skill that was installed via the hub. Confirms before deleting
   files, refuses to touch first-party plugin skills, and logs every action. Use when the
   user wants to fully remove a community skill ("uninstall [skill]", "remove this skill")

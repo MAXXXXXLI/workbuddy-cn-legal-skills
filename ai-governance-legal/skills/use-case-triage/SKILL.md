@@ -1,6 +1,7 @@
 ---
-name: use-case-triage
+name: "AI 治理法务-用例分级"
 description: >
+  用于中国大陆AI 治理法务场景下的用例分级。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Classify a proposed AI use case against your registry — approved, conditional, or not
   approved — and produce required conditions and next steps. Flags cross-plugin handoffs
   to privacy or product counsel. Use when user says "triage this use case", "can we use AI

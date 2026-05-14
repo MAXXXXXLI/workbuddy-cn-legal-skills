@@ -1,6 +1,7 @@
 ---
-name: aia-generation
+name: "AI 治理法务-AI 影响评估"
 description: >
+  用于中国大陆AI 治理法务场景下的AI 影响评估。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Run an AI impact assessment — structured intake, risk analysis, regulatory
   classification per regime in scope, policy consistency diff, and recommendation with
   conditions. Uses the house-style structure learned from the seed impact assessment in

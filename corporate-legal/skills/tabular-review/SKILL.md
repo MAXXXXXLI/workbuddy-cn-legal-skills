@@ -1,6 +1,7 @@
 ---
-name: tabular-review
+name: "公司与交易法务-表格式尽调审查"
 description: >
+  用于中国大陆公司与交易法务场景下的表格式尽调审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Tabular review — one row per document, one column per data point, every cell cited to
   source. Built for M&A diligence ("review these 200 target contracts for
   change-of-control, assignment, and MAC clauses") but works for any batch review that

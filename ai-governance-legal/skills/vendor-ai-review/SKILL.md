@@ -1,6 +1,7 @@
 ---
-name: vendor-ai-review
+name: "AI 治理法务-供应商 AI 条款审查"
 description: >
+  用于中国大陆AI 治理法务场景下的供应商 AI 条款审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review vendor AI terms — agreement, addendum, or ToS AI provisions — against your
   governance positions; flag training-on-data, liability, model changes, and AI policy
   consistency. Use when user says "review this AI agreement", "check OpenAI terms", "what

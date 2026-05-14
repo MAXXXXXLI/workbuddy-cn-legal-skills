@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "劳动用工法务-初始化访谈"
 description: >
+  用于中国大陆劳动用工法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Cold-start setup — learns your jurisdictional footprint and escalation rules from your
   handbook and termination memos. Asks which states and countries have employees, reads
   seed documents, and builds a jurisdiction-aware escalation table. Use on fresh install,

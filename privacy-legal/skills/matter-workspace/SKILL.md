@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "数据合规与个人信息保护-事项工作区"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — create, list, switch, close, or detach (practice-level).
   Keeps one client or engagement's context separate from every other for multi-client
   practitioners. Use when the user wants to open a new matter, switch matters, list

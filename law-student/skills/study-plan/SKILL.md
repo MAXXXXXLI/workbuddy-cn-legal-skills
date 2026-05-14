@@ -1,6 +1,7 @@
 ---
-name: study-plan
+name: "中国法学习-学习计划"
 description: >
+  用于中国大陆中国法学习场景下的学习计划。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Build or update a long-term 法考备考 (or exam prep) study plan — phases, subjects weighted
   by weakness, daily session schedule, adaptive to session history in study-plan.yaml. Use
   when the user says "build a study plan", "plan my 法考备考", "schedule my studying", or "how

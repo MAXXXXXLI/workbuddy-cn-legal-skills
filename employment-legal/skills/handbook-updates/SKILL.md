@@ -1,6 +1,7 @@
 ---
-name: handbook-updates
+name: "劳动用工法务-员工手册更新"
 description: >
+  用于中国大陆劳动用工法务场景下的员工手册更新。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Diff a proposed handbook change against the current version, flag ripple effects and
   state supplement impacts. Use when user says "update the handbook", "add this to the
   handbook", "handbook change", or has a policy ready for insertion. WorkBuddy

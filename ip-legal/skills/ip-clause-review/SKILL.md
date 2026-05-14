@@ -1,6 +1,7 @@
 ---
-name: ip-clause-review
+name: "知识产权法务-知识产权条款审查"
 description: >
+  用于中国大陆知识产权法务场景下的知识产权条款审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review the IP clauses in an agreement — assignment, ownership, license grants,
   warranties, indemnities. Use when reviewing IP terms in employment, consulting, SOW,
   vendor, or licensing agreements, when asked to check the assignment language or license

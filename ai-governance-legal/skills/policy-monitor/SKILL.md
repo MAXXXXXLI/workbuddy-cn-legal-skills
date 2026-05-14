@@ -1,6 +1,7 @@
 ---
-name: policy-monitor
+name: "AI 治理法务-政策漂移监测"
 description: >
+  用于中国大陆AI 治理法务场景下的政策漂移监测。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Keep the AI policy current with practice — weekly sweep of saved AIAs, triage results,
   and vendor reviews to find policy drift, or direct query for a proposed new AI practice.
   Use when user says "policy sweep", "does our AI policy cover this", "we want to start

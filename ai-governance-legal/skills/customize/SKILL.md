@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "AI 治理法务-个性化配置"
 description: >
+  用于中国大陆AI 治理法务场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your AI governance practice profile — change one thing without
   re-running the whole cold-start interview. Adjust risk posture, escalation contacts,
   use-case registry entries, vendor AI positions, AI policy commitments, impact-assessment

@@ -1,6 +1,7 @@
 ---
-name: exam-forecast
+name: "中国法学习-考试重点预测"
 description: >
+  用于中国大陆中国法学习场景下的考试重点预测。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Analyze past exams from the same professor to surface patterns — subject weighting,
   recurring issue-spot traps, favored hypo types, policy-vs-doctrine mix — and forecast
   likely emphases for the upcoming exam. Use when the user says "what's on the exam",

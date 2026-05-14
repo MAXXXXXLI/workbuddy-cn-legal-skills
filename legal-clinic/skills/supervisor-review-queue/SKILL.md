@@ -1,6 +1,7 @@
 ---
-name: supervisor-review-queue
+name: "法律诊所/法律援助-指导律师审阅队列"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的指导律师审阅队列。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Professor's review queue — student output waits here for professor approval before going
   to clients or courts. Only active if "formal review queue" supervision style was chosen
   at setup; otherwise dormant. Use when the professor wants to see what's waiting for

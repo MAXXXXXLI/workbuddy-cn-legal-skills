@@ -1,6 +1,7 @@
 ---
-name: international-expansion
+name: "劳动用工法务-跨境/异地扩张"
 description: >
+  用于中国大陆劳动用工法务场景下的跨境/异地扩张。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: implementation-planning framework for international hiring — EOR vs. entity
   decision framing, cross-functional triggers for tax/finance/HR, structured
   outside-counsel briefing requests, and a persistent gap tracker. Loaded by

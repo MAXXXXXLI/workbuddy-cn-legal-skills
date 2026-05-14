@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "劳动用工法务-事项工作区"
 description: >
+  用于中国大陆劳动用工法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — new, list, switch, close, or detach (practice- level).
   Creates, lists, switches, closes, and detaches the active matter so context from one
   client engagement never leaks into another. Use when a multi-client practitioner says

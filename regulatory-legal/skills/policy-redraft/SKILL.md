@@ -1,6 +1,7 @@
 ---
-name: policy-redraft
+name: "监管合规法务-政策修订草案"
 description: >
+  用于中国大陆监管合规法务场景下的政策修订草案。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Produce a proposed marked-up policy redraft that closes a gap found by
   /regulatory-legal:gaps or /regulatory-legal:policy-diff. A first draft for internal
   review — not for direct application to approved policy documents. Use when the user says

@@ -1,6 +1,7 @@
 ---
-name: disable
+name: "技能治理中心-停用技能"
 description: >
+  用于中国大陆技能治理中心场景下的停用技能。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Disable a community skill installed through the hub without removing its files. Use when
   the user wants to temporarily quiet a community skill ("disable [skill]"), stop its
   hooks from firing while keeping its config, or re-enable a previously disabled skill.

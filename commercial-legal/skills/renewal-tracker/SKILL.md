@@ -1,6 +1,7 @@
 ---
-name: renewal-tracker
+name: "商事合同法务-续约跟踪"
 description: >
+  用于中国大陆商事合同法务场景下的续约跟踪。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Show contracts with cancel-by deadlines coming up and warn before notice windows close,
   working from a maintained renewal register. Use when the user asks "what's renewing
   soon", "what renewals are due", "did we miss a cancellation window", "add this to the

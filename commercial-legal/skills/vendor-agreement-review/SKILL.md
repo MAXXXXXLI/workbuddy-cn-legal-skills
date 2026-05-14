@@ -1,6 +1,7 @@
 ---
-name: vendor-agreement-review
+name: "商事合同法务-供应商合同审查"
 description: >
+  用于中国大陆商事合同法务场景下的供应商合同审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: review of an inbound vendor agreement against the team playbook in
   `~/.workbuddy/skills/config/workbuddy-cn-legal/commercial-legal/CLAUDE.md`. Flags
   deviations, assesses risk, generates specific redline language, and routes to the right

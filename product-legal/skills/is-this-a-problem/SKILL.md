@@ -1,6 +1,7 @@
 ---
-name: is-this-a-problem
+name: "产品合规法务-快速合规判断"
 description: >
+  用于中国大陆产品合规法务场景下的快速合规判断。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Fast "is this a problem?" answer for the quick 企业微信/飞书/钉钉 question — pattern-matches
   against your calibration. Use when the user says "is this a problem", "quick question",
   "can we do X", "do I need legal review for", "sanity check", or pastes a PM's question

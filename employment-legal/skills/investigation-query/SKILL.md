@@ -1,6 +1,7 @@
 ---
-name: investigation-query
+name: "劳动用工法务-调查查询"
 description: >
+  用于中国大陆劳动用工法务场景下的调查查询。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Ask questions against an open investigation log — what witnesses said, where accounts
   conflict, what gaps exist, what the strongest evidence is on each issue. Use when the
   attorney needs to query the investigation record without re-reading every entry.

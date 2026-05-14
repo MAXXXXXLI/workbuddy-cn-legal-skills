@@ -1,6 +1,7 @@
 ---
-name: log-leave
+name: "劳动用工法务-记录休假事项"
 description: >
+  用于中国大陆劳动用工法务场景下的记录休假事项。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Add a new leave to the leave register with the minimum information needed to start
   tracking deadlines. Use when an employee goes on leave and you want the tracker to watch
   designation, certification, and exhaustion clocks from day one. WorkBuddy

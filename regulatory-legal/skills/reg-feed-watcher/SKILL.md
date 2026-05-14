@@ -1,6 +1,7 @@
 ---
-name: reg-feed-watcher
+name: "监管合规法务-监管动态监测"
 description: >
+  用于中国大陆监管合规法务场景下的监管动态监测。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Check regulatory feeds now and report what's new since the last check, filtered by your
   materiality threshold. Use when the user says "check the feeds", "what's new",
   "regulatory update", when running from the scheduled agent, or when manually pasting a

@@ -1,6 +1,7 @@
 ---
-name: dpa-review
+name: "数据合规与个人信息保护-数据处理协议审查"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的数据处理协议审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Review a Data Processing Agreement against your DPA playbook — auto-detects whether
   you're processor or controller and applies the right half of the playbook. Use when the
   user says "review this DPA", "check this data processing addendum", "customer sent their

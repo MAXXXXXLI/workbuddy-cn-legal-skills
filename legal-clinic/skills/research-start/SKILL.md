@@ -1,6 +1,7 @@
 ---
-name: research-start
+name: "法律诊所/法律援助-法律检索路线图"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的法律检索路线图。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Research roadmap for a legal issue — statutes to check, case law areas to investigate,
   regulatory frameworks, 北大法宝/威科先行/官方法规库 search terms. Leads and frameworks, NOT
   authoritative citations; students verify and develop everything. Use when a student asks

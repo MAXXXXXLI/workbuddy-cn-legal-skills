@@ -1,6 +1,7 @@
 ---
-name: deadlines
+name: "法律诊所/法律援助-期限管理"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的期限管理。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Track case deadlines — add, cross-case rollup report, update, complete, close. Warns at
   configurable thresholds (default 14/7/3/1 days); overdue items stay flagged until
   resolved. The operational record for a clinic workload. Use when a student or supervisor

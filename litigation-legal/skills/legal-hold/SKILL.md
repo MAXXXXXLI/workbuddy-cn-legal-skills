@@ -1,6 +1,7 @@
 ---
-name: legal-hold
+name: "争议解决法务-证据保全/材料留存"
 description: >
+  用于中国大陆争议解决法务场景下的证据保全/材料留存。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Issue, refresh, release, or report on legal holds — drafts the hold notice as .docx,
   updates legal_hold fields in _log.yaml, and calendars the next refresh. Use when the
   user says "issue a hold", "refresh hold", "release hold", or asks for a portfolio-wide

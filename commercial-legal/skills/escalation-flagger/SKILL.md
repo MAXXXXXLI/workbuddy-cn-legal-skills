@@ -1,6 +1,7 @@
 ---
-name: escalation-flagger
+name: "商事合同法务-升级审批提示"
 description: >
+  用于中国大陆商事合同法务场景下的升级审批提示。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Route a contract issue to the right approver per the escalation matrix in
   `~/.workbuddy/skills/config/workbuddy-cn-legal/commercial-legal/CLAUDE.md`, and draft
   the ask. Use when the user says "who needs to approve this", "escalate this", "does this

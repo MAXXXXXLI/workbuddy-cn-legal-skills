@@ -1,6 +1,7 @@
 ---
-name: fto-triage
+name: "知识产权法务-专利自由实施初筛"
 description: >
+  用于中国大陆知识产权法务场景下的专利自由实施初筛。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Freedom-to-operate triage — a structured first look at potentially blocking patents, not
   an FTO opinion. Use when a product, process, or feature is being evaluated for blocking
   patents, when asked whether anything stops a launch, or to build a claim-chart first

@@ -1,6 +1,7 @@
 ---
-name: ai-inventory
+name: "AI 治理法务-AI 系统清单"
 description: >
+  用于中国大陆AI 治理法务场景下的AI 系统清单。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   EU AI Act per-system inventory — track each AI system's role (provider, deployer,
   importer, distributor, authorized representative, product manufacturer) and risk tier
   (prohibited, high-risk, limited, minimal, GPAI, GPAI+systemic). Role and tier are

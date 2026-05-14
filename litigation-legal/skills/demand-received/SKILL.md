@@ -1,6 +1,7 @@
 ---
-name: demand-received
+name: "争议解决法务-来函应对"
 description: >
+  用于中国大陆争议解决法务场景下的来函应对。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Triage an inbound demand letter — extract fields, cross-check the portfolio, assess
   merit, present response options with a recommendation, and hand off to matter-intake or
   demand-intake if escalation is warranted. Use when the user says "we got a demand

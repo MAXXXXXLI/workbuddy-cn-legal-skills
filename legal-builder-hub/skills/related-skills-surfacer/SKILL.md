@@ -1,6 +1,7 @@
 ---
-name: related-skills-surfacer
+name: "技能治理中心-相关技能推荐"
 description: >
+  用于中国大陆技能治理中心场景下的相关技能推荐。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Suggest community skills based on recent activity in other plugins. Checks whether the
   community has built something relevant to a task and mentions it once, non-intrusively.
   Use when the user says "is there a community skill for this", "what else is out there",

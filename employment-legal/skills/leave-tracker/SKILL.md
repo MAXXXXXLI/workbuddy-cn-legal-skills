@@ -1,6 +1,7 @@
 ---
-name: leave-tracker
+name: "劳动用工法务-休假/假期管理"
 description: >
+  用于中国大陆劳动用工法务场景下的休假/假期管理。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Check open leaves for deadline alerts and required decisions. Surfaces only the leaves
   that require an action and explains why — not a status board. Use weekly, or whenever
   the attorney needs to know which leaves have upcoming designation, certification, or

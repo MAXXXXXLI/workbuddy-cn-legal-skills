@@ -1,6 +1,7 @@
 ---
-name: termination-review
+name: "劳动用工法务-解除/终止劳动关系审查"
 description: >
+  用于中国大陆劳动用工法务场景下的解除/终止劳动关系审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Termination review — high-risk flag detection, severance + release, and final pay timing
   by jurisdiction. Jurisdiction-specific rules and release consideration periods are
   researched per review, not stored. Use when the user says "reviewing a termination",

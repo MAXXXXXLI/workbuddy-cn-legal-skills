@@ -1,6 +1,7 @@
 ---
-name: deposition-prep
+name: "争议解决法务-庭审/询问准备"
 description: >
+  用于中国大陆争议解决法务场景下的庭审/询问准备。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Build a 庭审询问/调查取证 outline for a witness — pull their documents from the eDiscovery
   platform, organize topics around the case theory, and surface impeachment material. Use
   when the user says "depo prep for [witness]", "build a depo outline", or "prepare for

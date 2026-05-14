@@ -1,6 +1,7 @@
 ---
-name: matter-briefing
+name: "争议解决法务-案件/事项简报"
 description: >
+  用于中国大陆争议解决法务场景下的案件/事项简报。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Deep briefing on one matter — current posture, what's changed, next deadline, open
   questions, and a risk re-assessment check, ready before a GC update or outside counsel
   call. Use when the user says "brief me on [matter]", "where are we on [matter]", or

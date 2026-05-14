@@ -1,6 +1,7 @@
 ---
-name: expansion-update
+name: "劳动用工法务-扩张事项更新"
 description: >
+  用于中国大陆劳动用工法务场景下的扩张事项更新。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Update the status of an in-progress international expansion project — recalculates what
   is now unblocked, flags anything overdue, and surfaces the next priorities. Use when
   work has happened since the last session and the expansion tracker needs to reflect the

@@ -1,6 +1,7 @@
 ---
-name: cease-desist
+name: "知识产权法务-停止侵权/律师函"
 description: >
+  用于中国大陆知识产权法务场景下的停止侵权/律师函。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft a cease-and-desist letter (send mode) or triage one you received (receive mode).
   Use when asserting your rights against an infringer with a demand letter calibrated to
   your enforcement posture, or when an incoming C&D needs triage into a structured options

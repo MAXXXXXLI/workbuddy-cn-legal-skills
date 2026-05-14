@@ -1,6 +1,7 @@
 ---
-name: investigation-summary
+name: "劳动用工法务-调查摘要"
 description: >
+  用于中国大陆劳动用工法务场景下的调查摘要。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft an audience-specific summary from the privileged investigation memo — HR,
   leadership, or outside counsel versions. Use when an investigation memo needs to be
   communicated to an audience that should not see the full privileged work product.

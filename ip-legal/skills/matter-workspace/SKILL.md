@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "知识产权法务-事项工作区"
 description: >
+  用于中国大陆知识产权法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — create, list, switch, close, or detach the active matter. Use
   in multi-client private practice to keep one client's context separate from another, or
   when a substantive skill needs to know which matter it's working in. WorkBuddy

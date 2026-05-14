@@ -1,6 +1,7 @@
 ---
-name: deal-team-summary
+name: "公司与交易法务-交易团队摘要"
 description: >
+  用于中国大陆公司与交易法务场景下的交易团队摘要。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Aggregate diligence findings into a deal team briefing at the right altitude for the
   audience — exec summary for leadership, working summary for the team. Use when user says
   "brief the deal team", "what's the state of diligence", "summarize findings for

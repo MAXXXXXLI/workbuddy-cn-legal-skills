@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "法律诊所/法律援助-个性化配置"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your legal clinic profile — change one thing without re-running
   the whole cold-start interview. Adjust clinic profile, jurisdiction, supervision style,
   practice-area templates, semester configuration, or output safeguards. Use when the user

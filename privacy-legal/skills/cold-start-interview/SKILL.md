@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "数据合规与个人信息保护-初始化访谈"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Run the cold-start interview — learns your privacy practice and writes CLAUDE.md from
   your policy, DPA template, and a reference PIA. Use on first run, when CLAUDE.md is
   missing or has placeholders, or when the user says "set up the privacy plugin", "onboard

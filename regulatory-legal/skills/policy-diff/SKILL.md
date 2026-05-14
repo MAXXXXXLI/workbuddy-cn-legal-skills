@@ -1,6 +1,7 @@
 ---
-name: policy-diff
+name: "监管合规法务-政策差异分析"
 description: >
+  用于中国大陆监管合规法务场景下的政策差异分析。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Diff a specific regulatory change against the indexed policy library. Use when a reg has
   changed and you need to know which policies it touches and what the gap is, when the
   user says "diff this reg against our policies", "which policy does this affect", or "gap

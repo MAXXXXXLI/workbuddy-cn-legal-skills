@@ -1,6 +1,7 @@
 ---
-name: matter-update
+name: "争议解决法务-事项更新"
 description: >
+  用于中国大陆争议解决法务场景下的事项更新。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Append a dated event to a matter's history file and refresh the log row — captures new
   developments, status changes, risk re-assessments, deadline shifts, and settlement
   authority changes. Use when the user wants to log an update on a matter, note a

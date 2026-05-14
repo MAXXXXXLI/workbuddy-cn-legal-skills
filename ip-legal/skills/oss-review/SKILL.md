@@ -1,6 +1,7 @@
 ---
-name: oss-review
+name: "知识产权法务-开源合规审查"
 description: >
+  用于中国大陆知识产权法务场景下的开源合规审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Open source license compliance check for a dependency list, a single library, or
   outbound code. Use when reviewing a manifest, SBOM, or repo for copyleft obligations and
   license compatibility, when asked whether a library can ship, or when preparing code to

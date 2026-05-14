@@ -1,6 +1,7 @@
 ---
-name: invention-intake
+name: "知识产权法务-发明披露接收"
 description: >
+  用于中国大陆知识产权法务场景下的发明披露接收。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Invention disclosure first-pass screen — novelty, obviousness, §101 eligibility, bar
   dates, detectability, and strategic value. Use when an invention disclosure comes in and
   needs triage on whether to pursue a prior-art search and patent counsel review,

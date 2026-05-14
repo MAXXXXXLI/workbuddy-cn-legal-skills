@@ -1,6 +1,7 @@
 ---
-name: memo
+name: "法律诊所/法律援助-法律备忘录"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的法律备忘录。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   IRAC-scaffolded case analysis memo with research gaps flagged — the scaffold, not the
   analysis. Rule blocks are RESEARCH NEEDED, Application is STUDENT ANALYSIS prompts,
   Conclusion is blank. Use when a student needs to scaffold a case analysis memo, write up

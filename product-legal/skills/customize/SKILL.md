@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "产品合规法务-个性化配置"
 description: >
+  用于中国大陆产品合规法务场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your product counsel practice profile — change one thing without
   re-running the whole cold-start interview. Adjust risk calibration, escalation contacts,
   launch review framework, marketing claims posture, or matter workspace paths. Use when

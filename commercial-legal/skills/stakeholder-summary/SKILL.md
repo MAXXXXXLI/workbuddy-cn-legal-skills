@@ -1,6 +1,7 @@
 ---
-name: stakeholder-summary
+name: "商事合同法务-业务摘要"
 description: >
+  用于中国大陆商事合同法务场景下的业务摘要。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Translates a contract review into a summary the business stakeholder will actually read.
   Not a legal memo — a two-minute answer to "can I sign this and what do I need to know."
   Use when user says "summarize for the business", "write this up for [stakeholder]",

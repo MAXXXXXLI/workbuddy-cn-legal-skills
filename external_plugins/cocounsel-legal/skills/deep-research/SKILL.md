@@ -1,6 +1,7 @@
 ---
-name: deep-research
+name: "中国法律检索-中国法律深度检索"
 description: >
+  用于中国大陆中国法律检索场景下的中国法律深度检索。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Use this skill whenever a user specifically requests legal research or 北大法宝/威科先行/官方法规库
   Deep Research, asks for CoCounsel Legal or cocounsel legal support, or asks a question
   that requires explaining, analyzing, or synthesizing U.S. law. WorkBuddy

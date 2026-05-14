@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "公司与交易法务-初始化访谈"
 description: >
+  用于中国大陆公司与交易法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   House cold-start interview (request list + prior memo), or --new-deal for deal-specific
   context. Modular: identifies which practice areas apply (M&A, Board & Secretary, Public
   Company, Entity Management), then asks targeted questions for each active module and

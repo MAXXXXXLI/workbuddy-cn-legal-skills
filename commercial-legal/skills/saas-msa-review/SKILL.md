@@ -1,6 +1,7 @@
 ---
-name: saas-msa-review
+name: "商事合同法务-SaaS/MSA 审查"
 description: >
+  用于中国大陆商事合同法务场景下的SaaS/MSA 审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: review of SaaS subscription agreements with attention to the terms that
   matter most in subscription deals — auto-renewal mechanics, price escalation, data
   portability, uptime SLAs, and subprocessor rights. Loaded by /commercial-legal:review

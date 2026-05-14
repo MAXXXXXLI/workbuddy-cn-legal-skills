@@ -57,26 +57,114 @@
 
 ## 如何在 WorkBuddy 中使用
 
-### 方式一：导入整包
+### 方式一：一次性整体导入全部 skills
 
-1. 下载或克隆本仓库。
-2. 在 WorkBuddy 中打开 **插件** 或 **技能市场**。
-3. 点击 **添加技能 / 上传技能**。
-4. 选择本仓库根目录或打包后的 zip。
-5. 导入后只启用当前任务需要的模块，减少误触发。
+适合想把本仓库 `151` 个中国法务 skills 全部装进 WorkBuddy 的用户。
+这个方法使用 WorkBuddy 本地用户技能目录，不经过图形界面的单个 zip 上传安全检测。
 
-### 方式二：按模块导入
+```bash
+git clone https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills.git
+cd workbuddy-cn-legal-skills
+bash scripts/install_all_workbuddy_skills.sh
+```
 
-如果整包导入失败，建议按模块单独打包导入，例如：
+如果你之前已经安装过旧版本，想更新为最新文件：
 
-- `commercial-legal`
-- `privacy-legal`
-- `employment-legal`
-- `corporate-legal`
-- `ip-legal`
-- `litigation-legal`
-- `regulatory-legal`
-- `ai-governance-legal`
+```bash
+bash scripts/install_all_workbuddy_skills.sh --force
+```
+
+脚本会把 `dist/workbuddy-skill-zips/` 下的全部 zip 解压到：
+
+```text
+~/.workbuddy/skills/
+```
+
+安装完成后，重启 WorkBuddy，进入新建任务，点击输入框下方的 **技能**，即可搜索中文名称。例如搜索“保密协议”会看到：
+
+![中文 skill 名称](docs/images/workbuddy-flow/10-chinese-skill-name.png)
+
+### 方式二：图形界面导入单个 skill zip
+
+WorkBuddy v4.22.11 实测要求上传的 zip 顶层直接包含 `SKILL.md`。因此请使用本仓库已经打好的直导包：
+
+```text
+dist/workbuddy-skill-zips/<module-slug>--<skill-slug>.zip
+```
+
+最快试用可以选择：
+
+```text
+dist/workbuddy-skill-zips/commercial-legal--nda-review.zip
+```
+
+不要上传仓库根目录 zip，也不要上传旧的模块整包 zip，否则 WorkBuddy 会报 `SKILL.md not found in zip archive`。
+
+本仓库目前提供 `151` 个 WorkBuddy 直导 zip。每个 zip 顶层包含：
+
+- `SKILL.md`
+- 可选 `CLAUDE.md`
+- `references/china-context.md`
+- `references/china-legal-context.md`
+
+zip 文件名保留英文稳定标识，方便更新和脚本安装；WorkBuddy 中显示的 skill 名称已经改成中文，例如 `商事合同法务-保密协议审查`。
+
+### WorkBuddy 图形界面导入步骤
+
+1. 打开 WorkBuddy，进入左侧 **技能**。
+
+![WorkBuddy 首页](docs/images/workbuddy-flow/01-workbuddy-home.png)
+
+2. 在技能页右上角点击 **添加技能**。
+
+![技能页](docs/images/workbuddy-flow/02-skills-page.png)
+
+3. 在菜单中选择 **上传技能**。
+
+![添加技能菜单](docs/images/workbuddy-flow/03-add-skill-menu.png)
+
+4. 在上传弹窗中选择 `dist/workbuddy-skill-zips/` 里的单 skill zip。
+
+![上传技能弹窗](docs/images/workbuddy-flow/04-upload-skill-modal.png)
+
+5. 例如选择 `commercial-legal--nda-review.zip`。
+
+![选择 zip](docs/images/workbuddy-flow/05-select-module-zip.png)
+
+6. WorkBuddy 会进入安全检测。可以勾选 **非高风险自动安装**，然后等待检测结束。
+
+![安全检测](docs/images/workbuddy-flow/06-safety-checking.png)
+
+### 本机实测结果
+
+在 WorkBuddy v4.22.11 中：
+
+- 旧模块 zip 会报错：`SKILL.md not found in zip archive`。
+- 本仓库 `dist/workbuddy-skill-zips/commercial-legal--nda-review.zip` 已能通过 zip 结构校验并进入 WorkBuddy 安全检测。
+- 本次测试中，官方上传流程停留在“安全检测中”未返回结果；这是 WorkBuddy 应用侧检测链路问题，不是 zip 结构问题。
+- 通过 `scripts/install_all_workbuddy_skills.sh --force` 一次性本地安装 `151` 个 skills 后，重启 WorkBuddy，可以在技能选择器中看到中文 skill 名称。
+
+### 安全检测卡住时的本地安装兜底
+
+如果 WorkBuddy 的上传安全检测长时间不返回，可以先用本地目录方式验证 skill 本体：
+
+```bash
+mkdir -p ~/.workbuddy/skills/commercial-legal--nda-review
+unzip dist/workbuddy-skill-zips/commercial-legal--nda-review.zip -d ~/.workbuddy/skills/commercial-legal--nda-review
+```
+
+然后重启 WorkBuddy，进入新建任务，点击输入框下方的 **技能**，搜索或选择 `commercial-legal--nda-review`。
+在 WorkBuddy 里它会显示为中文名：`商事合同法务-保密协议审查`。
+
+### 重新打包或二次维护
+
+如果你修改了任意 `SKILL.md`，可以重新生成全部 WorkBuddy 直导 zip：
+
+```bash
+python3 scripts/package_workbuddy_skills.py --update-source-names
+```
+
+这个命令会确保每个 source `SKILL.md` 和 zip 顶层 `SKILL.md` 都使用中文名称，并重新生成 `dist/workbuddy-skill-zips/`。
 
 ### 第一次使用前
 

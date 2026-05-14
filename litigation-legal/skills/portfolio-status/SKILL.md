@@ -1,6 +1,7 @@
 ---
-name: portfolio-status
+name: "争议解决法务-争议组合状态"
 description: >
+  用于中国大陆争议解决法务场景下的争议组合状态。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Roll up the portfolio from _log.yaml — risk distribution, upcoming deadlines, stale
   matters, materiality totals, stage distribution, and flagged anomalies. Use when the
   user asks "where do we stand", "how many open matters", or wants a portfolio rollup or

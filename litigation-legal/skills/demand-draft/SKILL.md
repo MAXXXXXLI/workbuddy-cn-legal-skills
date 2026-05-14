@@ -1,6 +1,7 @@
 ---
-name: demand-draft
+name: "争议解决法务-催告/索赔函起草"
 description: >
+  用于中国大陆争议解决法务场景下的催告/索赔函起草。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft a demand letter from a completed intake, gated on a privilege / FRE 408 / waiver /
   admission checklist, with a .docx output, post-send checklist, and an offer to create a
   matter. Use when the user says "draft the demand", "write the [type] letter", or has a

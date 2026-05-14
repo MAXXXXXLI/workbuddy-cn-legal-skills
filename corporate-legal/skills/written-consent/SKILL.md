@@ -1,6 +1,7 @@
 ---
-name: written-consent
+name: "公司与交易法务-书面决议/同意书"
 description: >
+  用于中国大陆公司与交易法务场景下的书面决议/同意书。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft a unanimous written consent of the board or a committee in house format, with
   precedent search from the consents repository. Handles multi-resolution consents,
   director conflict flags, state-law notice requirements, and signatory tracking, with a

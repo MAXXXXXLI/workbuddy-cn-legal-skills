@@ -1,6 +1,7 @@
 ---
-name: diligence-issue-extraction
+name: "公司与交易法务-尽调问题提取"
 description: >
+  用于中国大陆公司与交易法务场景下的尽调问题提取。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Read VDR documents and extract issues per house categories and materiality thresholds,
   producing findings in house memo format. Use when user says "review the data room",
   "extract issues from [folder]", "diligence review", "what's in the VDR", or points at

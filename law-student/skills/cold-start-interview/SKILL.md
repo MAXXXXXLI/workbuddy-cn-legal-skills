@@ -1,6 +1,7 @@
 ---
-name: cold-start-interview
+name: "中国法学习-初始化访谈"
 description: >
+  用于中国大陆中国法学习场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   About-you interview and materials intake — classes, bar jurisdiction, learning style
   (drill-me vs explain-to-me), past outlines, graded essays, old exams, 法考客观题 sets,
   syllabi, papers. Use on a fresh install, when the user says "set up" or "get started",

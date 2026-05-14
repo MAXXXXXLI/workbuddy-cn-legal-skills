@@ -1,6 +1,7 @@
 ---
-name: reg-gap-analysis
+name: "AI 治理法务-监管差距分析"
 description: >
+  用于中国大陆AI 治理法务场景下的监管差距分析。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Diff a new AI regulation or guidance against your current governance posture — surfaces
   gaps, priorities, and a remediation plan with owners and deadlines. Use when an AI
   regulation moves (or you learn about one you missed), or when user says "new reg just

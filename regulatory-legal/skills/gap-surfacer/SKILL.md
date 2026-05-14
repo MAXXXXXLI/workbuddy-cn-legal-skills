@@ -1,6 +1,7 @@
 ---
-name: gap-surfacer
+name: "监管合规法务-合规缺口浮现"
 description: >
+  用于中国大陆监管合规法务场景下的合规缺口浮现。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: shared gap- and comment-tracker framework backing /regulatory-legal:gaps and
   /regulatory-legal:comments. Tracks open policy gaps with remediation status, ingests
   gaps from policy-diff, surfaces what's open and aging, routes to owners, and notifies

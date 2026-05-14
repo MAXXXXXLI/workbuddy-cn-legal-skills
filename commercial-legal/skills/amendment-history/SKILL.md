@@ -1,6 +1,7 @@
 ---
-name: amendment-history
+name: "商事合同法务-合同修订沿革"
 description: >
+  用于中国大陆商事合同法务场景下的合同修订沿革。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Trace how a contract has changed across its base agreement and all amendments — either a
   summary of all changes over time, or a provision trace for a specific clause. Use when
   the user says "what changed in this contract over time", "show me the amendment

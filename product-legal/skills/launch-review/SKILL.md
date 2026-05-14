@@ -1,6 +1,7 @@
 ---
-name: launch-review
+name: "产品合规法务-上线审查"
 description: >
+  用于中国大陆产品合规法务场景下的上线审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Full launch review against your framework and risk calibration. Use when the user says
   "review this launch", "legal review for [feature]", "can we ship this", "what are the
   legal issues with [product]", or references a launch tracker ticket or PRD that needs a

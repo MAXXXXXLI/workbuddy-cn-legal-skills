@@ -1,6 +1,7 @@
 ---
-name: reg-gap-analysis
+name: "数据合规与个人信息保护-监管差距分析"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的监管差距分析。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Diff a new or changed regulation against current privacy policy and practice — outputs a
   gap list and a remediation plan with owners and dates. Use when a new reg drops, the
   user asks "does [regulation] affect us", "gap analysis for [state privacy law]",

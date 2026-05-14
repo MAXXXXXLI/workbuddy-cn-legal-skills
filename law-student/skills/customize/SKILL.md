@@ -1,6 +1,7 @@
 ---
-name: customize
+name: "中国法学习-个性化配置"
 description: >
+  用于中国大陆中国法学习场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Guided customization of your law-student study profile — change one thing without
   re-running the whole cold-start interview. Adjust current classes, learning style,
   outline preferences, 法考备考 subjects, seed materials, or study session cadence. Use when

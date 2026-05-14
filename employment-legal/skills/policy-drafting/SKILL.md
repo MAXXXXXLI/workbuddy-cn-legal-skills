@@ -1,6 +1,7 @@
 ---
-name: policy-drafting
+name: "劳动用工法务-制度/政策起草"
 description: >
+  用于中国大陆劳动用工法务场景下的制度/政策起草。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft an employment policy with state supplements where law differs across the
   jurisdictional footprint. Use when the user says "draft a [topic] policy", "we need a
   policy on", "update our [topic] policy", or names a policy gap. WorkBuddy

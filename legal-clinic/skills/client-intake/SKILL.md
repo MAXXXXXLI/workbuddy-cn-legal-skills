@@ -1,6 +1,7 @@
 ---
-name: client-intake
+name: "法律诊所/法律援助-客户接谈"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的客户接谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Structured intake — practice-area templates, cross-area issue spotting, conflict flags,
   and triage classification. Produces a formatted case summary the student analyzes and
   the professor reviews. Does NOT decide case acceptance. Use when starting a new client

@@ -1,6 +1,7 @@
 ---
-name: oc-status
+name: "争议解决法务-外部律师状态"
 description: >
+  用于中国大陆争议解决法务场景下的外部律师状态。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Generate weekly status-request email drafts to outside counsel across the active
   portfolio — markdown per matter, plus Gmail drafts when the MCP is available. Use when
   the user asks for OC status requests, weekly outside counsel check-ins, or wants

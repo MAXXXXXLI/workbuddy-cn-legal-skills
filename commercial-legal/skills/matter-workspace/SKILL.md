@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "商事合同法务-事项工作区"
 description: >
+  用于中国大陆商事合同法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — new, list, switch, close, or detach (practice-level). Use
   when a multi-client practitioner needs to create a matter, switch the active matter,
   list matters, archive a matter, or detach to practice-level context, or when another

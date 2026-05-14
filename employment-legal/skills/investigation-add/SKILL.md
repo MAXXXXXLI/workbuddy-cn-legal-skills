@@ -1,6 +1,7 @@
 ---
-name: investigation-add
+name: "劳动用工法务-调查记录补充"
 description: >
+  用于中国大陆劳动用工法务场景下的调查记录补充。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Add data to an open investigation — documents, interview notes, or observations.
   Processes batches against the documented pull criteria, surfaces significant items, and
   logs everything reviewed for coverage verification. Use when new evidence, interview

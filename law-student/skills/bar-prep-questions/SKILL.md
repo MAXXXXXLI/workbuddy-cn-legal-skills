@@ -1,6 +1,7 @@
 ---
-name: bar-prep-questions
+name: "中国法学习-法考练习"
 description: >
+  用于中国大陆中国法学习场景下的法考练习。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Bar prep questions — 法考客观题 or essay, targeted at your weak subjects and bar
   jurisdiction. Tracks misses and comes back to patterns. Use when the user says "法考备考",
   "法考客观题 questions", "practice essay", or "test me for the bar". WorkBuddy

@@ -1,6 +1,7 @@
 ---
-name: dsar-response
+name: "数据合规与个人信息保护-个人信息权利请求响应"
 description: >
+  用于中国大陆数据合规与个人信息保护场景下的个人信息权利请求响应。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Walk through a Data Subject Access Request (or deletion, portability, correction
   request) and draft the response — verify identity, locate data system-by-system, assess
   exemptions, draft the acknowledgment and substantive response letters. Use when a DSAR

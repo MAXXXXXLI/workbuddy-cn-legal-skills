@@ -1,6 +1,7 @@
 ---
-name: matter-workspace
+name: "监管合规法务-事项工作区"
 description: >
+  用于中国大陆监管合规法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Manage matter workspaces — create, list, switch, close, or detach the active matter
   (practice-level). Use when working across multiple clients or matters and you need to
   keep one engagement's context separate from another, or when a substantive skill needs

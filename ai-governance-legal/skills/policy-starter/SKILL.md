@@ -1,6 +1,7 @@
 ---
-name: policy-starter
+name: "AI 治理法务-AI 政策起草"
 description: >
+  用于中国大陆AI 治理法务场景下的AI 政策起草。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Draft a firm AI usage policy from published model policies, adapted to your practice
   profile — a research-and-synthesis tool whose output is a draft for attorney review and
   adoption, not a finished policy. Use when user says "draft an AI policy", "we need an AI

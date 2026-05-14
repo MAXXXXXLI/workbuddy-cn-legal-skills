@@ -1,6 +1,7 @@
 ---
-name: form-generation
+name: "法律诊所/法律援助-表单生成"
 description: >
+  用于中国大陆法律诊所/法律援助场景下的表单生成。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Reference: DEPRECATED — use `/draft` instead. This skill has been folded into the draft
   skill, which handles practice-area document generation including form population. Kept
   as a redirect for migration. WorkBuddy

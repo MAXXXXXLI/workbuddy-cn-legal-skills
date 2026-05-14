@@ -1,6 +1,7 @@
 ---
-name: ai-tool-handoff
+name: "公司与交易法务-ai tool handoff"
 description: >
+  用于中国大陆公司与交易法务场景下的ai tool handoff。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Detects when Luminance, Kira, or a similar bulk-review tool is in use, hands off the
   high-volume clause extraction to it, and QAs its output per the trust level in
   `~/.workbuddy/skills/config/workbuddy-cn-legal/corporate-legal/CLAUDE.md`. Use when user

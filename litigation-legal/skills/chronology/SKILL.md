@@ -1,6 +1,7 @@
 ---
-name: chronology
+name: "争议解决法务-事实时间线"
 description: >
+  用于中国大陆争议解决法务场景下的事实时间线。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Build or update a chronology from declared document sources and uploads — dated events
   extracted, de-duped, and tagged by significance per the matter theory. Use when the user
   asks to build a chronology or timeline from a production or matter file, says "chron

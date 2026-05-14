@@ -1,6 +1,7 @@
 ---
-name: integration-management
+name: "公司与交易法务-并购后整合管理"
 description: >
+  用于中国大陆公司与交易法务场景下的并购后整合管理。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
   Post-closing M&A integration tracker — phased workplan, consent tracking, contract
   assignment at scale, weekly status reports. Initializes from whatever deal artifacts are
   available (purchase agreement, deal summary, closing checklist) and connects to
