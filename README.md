@@ -37,6 +37,12 @@ https://github.com/anthropics/claude-for-legal
 5. 选择一个中文命名的压缩包。
 6. 导入完成后，在新任务里选择刚导入的 skill 使用。
 
+导入时可以对照下面两张图：
+
+![点击添加技能](docs/images/import-flow/02-点击添加技能.png)
+
+![选择中文压缩包](docs/images/import-flow/04-选择中文压缩包.png)
+
 建议先导入一个常用 skill 试试，例如：
 
 - `商事合同法务-保密协议审查`
