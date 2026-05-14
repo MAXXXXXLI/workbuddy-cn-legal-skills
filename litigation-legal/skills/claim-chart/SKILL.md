@@ -1,13 +1,8 @@
 ---
 name: "争议解决法务-请求权/权利要求对照表"
 description: >
-  用于中国大陆争议解决法务场景下的请求权/权利要求对照表。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Build or review an element chart — a patent claim chart (infringement, invalidity, or
-  review) or a civil element chart for any cause of action or defense — with every cell
-  pin-cited and gap detection as the priority output. Use when the user asks for a claim
-  chart, element chart, proof chart, infringement or invalidity contention,
-  element-by-element mapping, or asks "what are we missing to prove [claim]". WorkBuddy
-  中国语境适配：默认中国大陆法域，用于争议解决法务场景下的请求权/权利要求对照表。中文触发词包括：中国法、中国合规、争议解决法务、请求权/权利要求对照表、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆争议解决法务场景下的请求权/权利要求对照表。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

@@ -1,14 +1,8 @@
 ---
 name: "公司与交易法务-主体合规"
 description: >
-  用于中国大陆公司与交易法务场景下的主体合规。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Entity compliance tracker — initialize, report upcoming deadlines, update status, run
-  health audit, export to CSV. Maintains a compliance-tracker.yaml built from the entity
-  table, calculates filing deadlines by entity and jurisdiction, and surfaces what's due
-  in the next 30/60/90 days. Use when user says "entity compliance", "filing deadlines",
-  "annual reports due", "entity tracker", "what filings are due", "entity health", or
-  "good standing". WorkBuddy
-  中国语境适配：默认中国大陆法域，用于公司与交易法务场景下的主体合规。中文触发词包括：中国法、中国合规、公司与交易法务、主体合规、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆公司与交易法务场景下的主体合规。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

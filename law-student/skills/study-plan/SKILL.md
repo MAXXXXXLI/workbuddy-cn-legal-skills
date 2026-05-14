@@ -1,12 +1,8 @@
 ---
 name: "中国法学习-学习计划"
 description: >
-  用于中国大陆中国法学习场景下的学习计划。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Build or update a long-term 法考备考 (or exam prep) study plan — phases, subjects weighted
-  by weakness, daily session schedule, adaptive to session history in study-plan.yaml. Use
-  when the user says "build a study plan", "plan my 法考备考", "schedule my studying", or "how
-  should I study for [X]". WorkBuddy
-  中国语境适配：默认中国大陆法域，用于中国法学习场景下的学习计划。中文触发词包括：中国法、中国合规、中国法学习、学习计划、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆中国法学习场景下的学习计划。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

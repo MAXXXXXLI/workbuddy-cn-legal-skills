@@ -1,18 +1,13 @@
 ---
-name: "AI 治理法务-供应商 AI 条款审查"
+name: "人工智能治理法务-供应商人工智能条款审查"
 description: >
-  用于中国大陆AI 治理法务场景下的供应商 AI 条款审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Review vendor AI terms — agreement, addendum, or ToS AI provisions — against your
-  governance positions; flag training-on-data, liability, model changes, and AI policy
-  consistency. Use when user says "review this AI agreement", "check OpenAI terms", "what
-  did we agree to with [vendor]", "vendor sent an AI addendum", "is this AI contract
-  okay", or attaches vendor AI terms. WorkBuddy 中国语境适配：默认中国大陆法域，用于AI 治理法务场景下的供应商 AI
-  条款审查。中文触发词包括：中国法、中国合规、AI 治理法务、供应商 AI 条款审查、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆人工智能治理法务场景下的供应商人工智能条款审查。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**AI 治理法务**；当前技能：**供应商 AI 条款审查**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**人工智能治理法务**；当前技能：**供应商人工智能条款审查**。
 
 在执行下方原流程前，先读取并遵守：
 

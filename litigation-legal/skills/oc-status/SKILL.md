@@ -1,12 +1,8 @@
 ---
 name: "争议解决法务-外部律师状态"
 description: >
-  用于中国大陆争议解决法务场景下的外部律师状态。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Generate weekly status-request email drafts to outside counsel across the active
-  portfolio — markdown per matter, plus Gmail drafts when the MCP is available. Use when
-  the user asks for OC status requests, weekly outside counsel check-ins, or wants
-  per-matter status emails drafted from the portfolio log. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于争议解决法务场景下的外部律师状态。中文触发词包括：中国法、中国合规、争议解决法务、外部律师状态、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆争议解决法务场景下的外部律师状态。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

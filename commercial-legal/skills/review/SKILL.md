@@ -1,14 +1,8 @@
 ---
 name: "商事合同法务-合同审查"
 description: >
-  用于中国大陆商事合同法务场景下的合同审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Review a vendor agreement, NDA, or SaaS subscription against your playbook. Identifies
-  the agreement structure from titles, routes to the right review skill
-  (vendor-agreement-review, nda-review, saas-msa-review), and integrates the output into a
-  single memo. Use when the user says "review this contract", "check this MSA", "is this
-  NDA okay", "look at this SaaS agreement", or attaches an inbound agreement for review.
-  WorkBuddy
-  中国语境适配：默认中国大陆法域，用于商事合同法务场景下的合同审查。中文触发词包括：中国法、中国合规、商事合同法务、合同审查、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆商事合同法务场景下的合同审查。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

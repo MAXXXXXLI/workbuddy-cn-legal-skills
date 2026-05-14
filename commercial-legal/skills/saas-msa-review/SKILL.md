@@ -1,18 +1,13 @@
 ---
-name: "商事合同法务-SaaS/MSA 审查"
+name: "商事合同法务-软件服务主协议审查"
 description: >
-  用于中国大陆商事合同法务场景下的SaaS/MSA 审查。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Reference: review of SaaS subscription agreements with attention to the terms that
-  matter most in subscription deals — auto-renewal mechanics, price escalation, data
-  portability, uptime SLAs, and subprocessor rights. Loaded by /commercial-legal:review
-  when a SaaS or subscription agreement is detected. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于商事合同法务场景下的SaaS/MSA 审查。中文触发词包括：中国法、中国合规、商事合同法务、SaaS/MSA
-  审查、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆商事合同法务场景下的软件服务主协议审查。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**商事合同法务**；当前技能：**SaaS/MSA 审查**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**商事合同法务**；当前技能：**软件服务主协议审查**。
 
 在执行下方原流程前，先读取并遵守：
 

@@ -1,13 +1,8 @@
 ---
 name: "商事合同法务-业务摘要"
 description: >
-  用于中国大陆商事合同法务场景下的业务摘要。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Translates a contract review into a summary the business stakeholder will actually read.
-  Not a legal memo — a two-minute answer to "can I sign this and what do I need to know."
-  Use when user says "summarize for the business", "write this up for [stakeholder]",
-  "explain this to procurement", "non-legal summary", or when a review is done and needs
-  to go to someone outside legal. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于商事合同法务场景下的业务摘要。中文触发词包括：中国法、中国合规、商事合同法务、业务摘要、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆商事合同法务场景下的业务摘要。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

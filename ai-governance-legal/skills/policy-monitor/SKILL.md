@@ -1,18 +1,13 @@
 ---
-name: "AI 治理法务-政策漂移监测"
+name: "人工智能治理法务-政策漂移监测"
 description: >
-  用于中国大陆AI 治理法务场景下的政策漂移监测。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Keep the AI policy current with practice — weekly sweep of saved AIAs, triage results,
-  and vendor reviews to find policy drift, or direct query for a proposed new AI practice.
-  Use when user says "policy sweep", "does our AI policy cover this", "we want to start
-  doing X — does the policy need updating", "run the policy monitor", or on a recurring
-  schedule. WorkBuddy 中国语境适配：默认中国大陆法域，用于AI 治理法务场景下的政策漂移监测。中文触发词包括：中国法、中国合规、AI
-  治理法务、政策漂移监测、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆人工智能治理法务场景下的政策漂移监测。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**AI 治理法务**；当前技能：**政策漂移监测**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**人工智能治理法务**；当前技能：**政策漂移监测**。
 
 在执行下方原流程前，先读取并遵守：
 

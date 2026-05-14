@@ -1,13 +1,8 @@
 ---
 name: "公司与交易法务-交割清单"
 description: >
-  用于中国大陆公司与交易法务场景下的交割清单。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  What's blocking close — maintain the closing checklist with status, critical path, and
-  days to close. Self-updating: ingests new items from diligence findings and schedule
-  builds, tracks status, surfaces what's blocking. Use when user says "closing checklist",
-  "what's left to close", "checklist status", "add to the checklist", or on a scheduled
-  status pull. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于公司与交易法务场景下的交割清单。中文触发词包括：中国法、中国合规、公司与交易法务、交割清单、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆公司与交易法务场景下的交割清单。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

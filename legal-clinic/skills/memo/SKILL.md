@@ -1,12 +1,8 @@
 ---
 name: "法律诊所/法律援助-法律备忘录"
 description: >
-  用于中国大陆法律诊所/法律援助场景下的法律备忘录。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  IRAC-scaffolded case analysis memo with research gaps flagged — the scaffold, not the
-  analysis. Rule blocks are RESEARCH NEEDED, Application is STUDENT ANALYSIS prompts,
-  Conclusion is blank. Use when a student needs to scaffold a case analysis memo, write up
-  their analysis, or build an IRAC memo for a case. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于法律诊所/法律援助场景下的法律备忘录。中文触发词包括：中国法、中国合规、法律诊所/法律援助、法律备忘录、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆法律诊所/法律援助场景下的法律备忘录。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

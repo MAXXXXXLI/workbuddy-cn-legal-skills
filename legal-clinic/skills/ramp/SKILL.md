@@ -1,13 +1,8 @@
 ---
 name: "法律诊所/法律援助-诊所上手培训"
 description: >
-  用于中国大陆法律诊所/法律援助场景下的诊所上手培训。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Student semester onboarding — clinic procedures, tool walkthrough, practice exercises
-  before real cases. Reads the handbook the professor uploaded at setup and teaches it
-  interactively. Use when a new clinic student says "onboard me", "I'm new to the clinic",
-  "getting started", or at the start of each semester; pass --card for the one-page
-  reference. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于法律诊所/法律援助场景下的诊所上手培训。中文触发词包括：中国法、中国合规、法律诊所/法律援助、诊所上手培训、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆法律诊所/法律援助场景下的诊所上手培训。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

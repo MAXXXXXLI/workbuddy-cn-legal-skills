@@ -6,8 +6,7 @@ __pycache__/
 *.pyc
 .DS_Store
 *.zip
-!dist/
-!dist/workbuddy-skill-zips/
-!dist/workbuddy-skill-zips/*.zip
+!可导入技能包/
+!可导入技能包/*.zip
 workbuddy-plugin-zips/
 workbuddy-screenshots/

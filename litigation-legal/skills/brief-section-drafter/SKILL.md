@@ -1,12 +1,8 @@
 ---
 name: "争议解决法务-诉讼文书章节起草"
 description: >
-  用于中国大陆争议解决法务场景下的诉讼文书章节起草。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Draft a brief section in house style, consistent with the case theory — every fact
-  cited, every case checked, every argument tied to the theory. Use when the user says
-  "draft the [section]", "write the statement of facts", "argument section on [issue]", or
-  needs a first draft of a brief section. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于争议解决法务场景下的诉讼文书章节起草。中文触发词包括：中国法、中国合规、争议解决法务、诉讼文书章节起草、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆争议解决法务场景下的诉讼文书章节起草。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

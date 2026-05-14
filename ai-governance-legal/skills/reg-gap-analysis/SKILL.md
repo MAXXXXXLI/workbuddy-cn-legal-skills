@@ -1,18 +1,13 @@
 ---
-name: "AI 治理法务-监管差距分析"
+name: "人工智能治理法务-监管差距分析"
 description: >
-  用于中国大陆AI 治理法务场景下的监管差距分析。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Diff a new AI regulation or guidance against your current governance posture — surfaces
-  gaps, priorities, and a remediation plan with owners and deadlines. Use when an AI
-  regulation moves (or you learn about one you missed), or when user says "new reg just
-  dropped", "does [regulation] affect us", "gap analysis for EU AI Act", "compliance check
-  against [AI law or guidance]", or pastes regulatory text. WorkBuddy 中国语境适配：默认中国大陆法域，用于AI
-  治理法务场景下的监管差距分析。中文触发词包括：中国法、中国合规、AI 治理法务、监管差距分析、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆人工智能治理法务场景下的监管差距分析。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**AI 治理法务**；当前技能：**监管差距分析**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**人工智能治理法务**；当前技能：**监管差距分析**。
 
 在执行下方原流程前，先读取并遵守：
 

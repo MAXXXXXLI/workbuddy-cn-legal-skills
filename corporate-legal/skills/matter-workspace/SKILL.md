@@ -1,13 +1,8 @@
 ---
 name: "公司与交易法务-事项工作区"
 description: >
-  用于中国大陆公司与交易法务场景下的事项工作区。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Manage matter workspaces — create, list, switch, close, or detach the active matter so
-  multi-client practitioners keep one client's context separate from every other. Read by
-  any substantive skill that needs to know what matter it's working in. Use when user says
-  "new matter", "switch matter", "list matters", "close matter", or wants to work at
-  practice-level only. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于公司与交易法务场景下的事项工作区。中文触发词包括：中国法、中国合规、公司与交易法务、事项工作区、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆公司与交易法务场景下的事项工作区。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

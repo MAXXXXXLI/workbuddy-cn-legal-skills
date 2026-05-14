@@ -1,14 +1,8 @@
 ---
 name: "公司与交易法务-董事会/股东会会议记录"
 description: >
-  用于中国大陆公司与交易法务场景下的董事会/股东会会议记录。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Drafts board or committee meeting minutes in your house format. Auto-detects upcoming
-  board and committee meetings from your calendar, asks for the agenda and any slides or
-  pre-read materials, and produces a complete draft in the format learned from your seed
-  minutes. Also handles written consents in lieu of meetings. Trigger: "board minutes",
-  "draft minutes", "upcoming board meeting", "committee minutes", "written consent", or
-  calendar detection of an upcoming board or committee event. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于公司与交易法务场景下的董事会/股东会会议记录。中文触发词包括：中国法、中国合规、公司与交易法务、董事会/股东会会议记录、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆公司与交易法务场景下的董事会/股东会会议记录。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

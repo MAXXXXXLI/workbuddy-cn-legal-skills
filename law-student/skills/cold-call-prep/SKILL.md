@@ -1,12 +1,8 @@
 ---
 name: "中国法学习-课堂问答准备"
 description: >
-  用于中国大陆中国法学习场景下的课堂问答准备。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Prep for a cold-call — predict the professor's likely questions and drill them
-  Socratically, flagging where you're shaky so you know what to re-read before class. Use
-  when the user says "prep for class tomorrow", "cold call [case]", "what might
-  [professor] ask on", or points at assigned reading. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于中国法学习场景下的课堂问答准备。中文触发词包括：中国法、中国合规、中国法学习、课堂问答准备、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆中国法学习场景下的课堂问答准备。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

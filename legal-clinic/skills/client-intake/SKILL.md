@@ -1,12 +1,8 @@
 ---
 name: "法律诊所/法律援助-客户接谈"
 description: >
-  用于中国大陆法律诊所/法律援助场景下的客户接谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Structured intake — practice-area templates, cross-area issue spotting, conflict flags,
-  and triage classification. Produces a formatted case summary the student analyzes and
-  the professor reviews. Does NOT decide case acceptance. Use when starting a new client
-  intake, running an intake interview, or writing up a new client's situation. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于法律诊所/法律援助场景下的客户接谈。中文触发词包括：中国法、中国合规、法律诊所/法律援助、客户接谈、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆法律诊所/法律援助场景下的客户接谈。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

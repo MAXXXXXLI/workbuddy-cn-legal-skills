@@ -1,18 +1,13 @@
 ---
-name: "AI 治理法务-用例分级"
+name: "人工智能治理法务-用例分级"
 description: >
-  用于中国大陆AI 治理法务场景下的用例分级。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Classify a proposed AI use case against your registry — approved, conditional, or not
-  approved — and produce required conditions and next steps. Flags cross-plugin handoffs
-  to privacy or product counsel. Use when user says "triage this use case", "can we use AI
-  for X", "is this approved", "what do we need to do to use AI for X". WorkBuddy
-  中国语境适配：默认中国大陆法域，用于AI 治理法务场景下的用例分级。中文触发词包括：中国法、中国合规、AI
-  治理法务、用例分级、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆人工智能治理法务场景下的用例分级。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**AI 治理法务**；当前技能：**用例分级**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**人工智能治理法务**；当前技能：**用例分级**。
 
 在执行下方原流程前，先读取并遵守：
 

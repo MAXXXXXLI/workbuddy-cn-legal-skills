@@ -1,13 +1,8 @@
 ---
 name: "知识产权法务-平台投诉/下架通知"
 description: >
-  用于中国大陆知识产权法务场景下的平台投诉/下架通知。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Draft a 平台投诉/通知-删除机制 takedown notice, triage one you received, or draft a §512(g)
-  counter-notice. Use when asserting copyright through a §512(c)(3) takedown with the
-  fair-use and perjury gates, when an incoming takedown needs triage into comply / counter
-  / engage / ignore options, or when drafting a §512(g)(3) counter-notice with the
-  consent-to-federal-jurisdiction gate. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于知识产权法务场景下的平台投诉/下架通知。中文触发词包括：中国法、中国合规、知识产权法务、平台投诉/下架通知、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆知识产权法务场景下的平台投诉/下架通知。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

@@ -1,25 +1,25 @@
-# WorkBuddy 中国法务技能包
+# 中文使用说明
 
-这是从 `claude-for-legal-main` 转换出的中国语境适配副本，供 WorkBuddy 使用。原始目录未被修改。
+本项目已经整理成适合工作伙伴应用逐个导入的中国法务技能包。
 
-## 转换内容
+普通用户请直接看首页说明，并使用 [可导入技能包](可导入技能包) 文件夹。该文件夹里的压缩包都已经按中文技能名命名，看名字即可判断用途。
 
-- 151 个 `SKILL.md` 均保留原始工作流骨架，并在 frontmatter 中加入中文触发语境。
-- 每个 skill 顶部加入 `WorkBuddy 中国语境适配（优先）`，覆盖原模板中的美国法、Delaware、ABA、CourtListener、DMCA、deposition、subpoena、attorney work product 等默认项。
-- 根目录新增 `references/china-legal-context.md`，每个业务模块新增 `references/china-context.md`。
-- 平台路径从 `~/.claude/plugins/config/claude-for-legal` 改为 `~/.workbuddy/skills/config/workbuddy-cn-legal`。
-- 增加 `.workbuddy-plugin/marketplace.json` 和每个模块的 `.workbuddy-plugin/plugin.json`，保留 `.claude-plugin` 结构以便对照。
+## 使用方式
 
-## 使用建议
+1. 下载并解压整个项目。
+2. 打开 [可导入技能包](可导入技能包) 文件夹。
+3. 在工作伙伴应用中进入“技能”。
+4. 点击“添加技能”，选择“上传技能”。
+5. 选择一个中文压缩包并打开。
 
-1. 先在 WorkBuddy 中导入需要的模块，不必一次启用全部模块。
-2. 对每个模块先运行或模拟 `cold-start-interview`，把公司情况、审查口径、审批人、资料库和输出格式补齐。
-3. 对会引用法律/案例/监管规则的任务，连接官方来源或授权数据库；否则输出会标注 `[需核验]`。
-4. 对外发送、提交监管、诉讼/仲裁文件、董事会/股东会文件、劳动解除决定、数据出境判断等，都必须由执业律师或公司法务负责人审阅。
+## 重要变化
 
-## 目录说明
+- 不再提供整体导入说明。
+- 不再建议普通用户使用命令或脚本。
+- 可导入文件夹和压缩包都改为中文名称。
+- 首页已增加技能目录表和正常导入截图。
+- 默认面向中国大陆法律和监管语境。
 
-- `references/china-legal-context.md`：全局中国法域总则。
-- `<plugin>/references/china-context.md`：模块级中国化参考。
-- `<plugin>/skills/*/SKILL.md`：WorkBuddy 可读的技能说明和流程。
+## 法律提示
 
+本项目输出仅用于法律研究、内部合规分析、法务草稿和学习训练。正式发送、提交、签署、采纳或对外依赖前，应由执业律师、公司法务负责人或相应专业人员核验。

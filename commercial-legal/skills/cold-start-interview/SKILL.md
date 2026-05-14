@@ -1,14 +1,8 @@
 ---
 name: "商事合同法务-初始化访谈"
 description: >
-  用于中国大陆商事合同法务场景下的初始化访谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Run the cold-start interview to learn your commercial contracts practice and write your
-  team practice profile. Use on first use of the plugin, when
-  `~/.workbuddy/skills/config/workbuddy-cn-legal/commercial-legal/CLAUDE.md` is missing or
-  still contains template placeholders, or when the user says "set up the plugin",
-  "configure commercial contracts", "onboard me", or "let's get started". This is the only
-  skill that should run on a fresh install. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于商事合同法务场景下的初始化访谈。中文触发词包括：中国法、中国合规、商事合同法务、初始化访谈、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆商事合同法务场景下的初始化访谈。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

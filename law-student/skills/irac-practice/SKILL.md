@@ -1,17 +1,13 @@
 ---
-name: "中国法学习-IRAC 练习"
+name: "中国法学习-四段式法律分析练习"
 description: >
-  用于中国大陆中国法学习场景下的IRAC 练习。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Grade an IRAC essay for structure, issue-spotting, rule accuracy, analysis depth, and
-  organization. Does NOT rewrite the essay or show a model answer; tracks patterns across
-  sessions. Use when the user says "grade my IRAC", "check my essay", or "I wrote this,
-  give me feedback". WorkBuddy 中国语境适配：默认中国大陆法域，用于中国法学习场景下的IRAC
-  练习。中文触发词包括：中国法、中国合规、中国法学习、IRAC 练习、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆中国法学习场景下的四段式法律分析练习。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**中国法学习**；当前技能：**IRAC 练习**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**中国法学习**；当前技能：**四段式法律分析练习**。
 
 在执行下方原流程前，先读取并遵守：
 

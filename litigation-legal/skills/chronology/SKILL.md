@@ -1,13 +1,8 @@
 ---
 name: "争议解决法务-事实时间线"
 description: >
-  用于中国大陆争议解决法务场景下的事实时间线。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Build or update a chronology from declared document sources and uploads — dated events
-  extracted, de-duped, and tagged by significance per the matter theory. Use when the user
-  asks to build a chronology or timeline from a production or matter file, says "chron
-  from the production" or "what happened when", or needs a working, statement-of-facts, or
-  witness-specific timeline. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于争议解决法务场景下的事实时间线。中文触发词包括：中国法、中国合规、争议解决法务、事实时间线、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆争议解决法务场景下的事实时间线。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

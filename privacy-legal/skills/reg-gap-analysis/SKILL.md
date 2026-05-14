@@ -1,12 +1,8 @@
 ---
 name: "数据合规与个人信息保护-监管差距分析"
 description: >
-  用于中国大陆数据合规与个人信息保护场景下的监管差距分析。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Diff a new or changed regulation against current privacy policy and practice — outputs a
-  gap list and a remediation plan with owners and dates. Use when a new reg drops, the
-  user asks "does [regulation] affect us", "gap analysis for [state privacy law]",
-  "compliance check against [reg]", or pastes regulatory text. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于数据合规与个人信息保护场景下的监管差距分析。中文触发词包括：中国法、中国合规、数据合规与个人信息保护、监管差距分析、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆数据合规与个人信息保护场景下的监管差距分析。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

@@ -1,11 +1,8 @@
 ---
 name: "监管合规法务-合规缺口台账"
 description: >
-  用于中国大陆监管合规法务场景下的合规缺口台账。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Open gaps tracker — what's flagged and not yet closed. Use when the user asks "what gaps
-  are open", "gap tracker", "remediation status", or wants to close (--close GAP-ID) or
-  risk-accept (--accept GAP-ID) a tracked gap. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于监管合规法务场景下的合规缺口台账。中文触发词包括：中国法、中国合规、监管合规法务、合规缺口台账、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆监管合规法务场景下的合规缺口台账。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

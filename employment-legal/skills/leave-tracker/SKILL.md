@@ -1,12 +1,8 @@
 ---
 name: "劳动用工法务-休假/假期管理"
 description: >
-  用于中国大陆劳动用工法务场景下的休假/假期管理。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Check open leaves for deadline alerts and required decisions. Surfaces only the leaves
-  that require an action and explains why — not a status board. Use weekly, or whenever
-  the attorney needs to know which leaves have upcoming designation, certification, or
-  exhaustion deadlines. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于劳动用工法务场景下的休假/假期管理。中文触发词包括：中国法、中国合规、劳动用工法务、休假/假期管理、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆劳动用工法务场景下的休假/假期管理。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

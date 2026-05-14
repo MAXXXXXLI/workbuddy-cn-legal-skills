@@ -1,13 +1,8 @@
 ---
 name: "数据合规与个人信息保护-政策漂移监测"
 description: >
-  用于中国大陆数据合规与个人信息保护场景下的政策漂移监测。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Keep the privacy policy current with practice. Two modes: weekly sweep of saved PIAs,
-  DPA reviews, and triage results to find policy drift; or direct query for a proposed new
-  practice. Use when the user asks "does our policy cover this", "we want to start doing X
-  — does the policy need updating", "run the policy monitor", "policy sweep", or wants to
-  find where the privacy policy no longer matches what the team actually does. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于数据合规与个人信息保护场景下的政策漂移监测。中文触发词包括：中国法、中国合规、数据合规与个人信息保护、政策漂移监测、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆数据合规与个人信息保护场景下的政策漂移监测。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

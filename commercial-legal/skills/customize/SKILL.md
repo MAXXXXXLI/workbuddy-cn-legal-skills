@@ -1,13 +1,8 @@
 ---
 name: "商事合同法务-个性化配置"
 description: >
-  用于中国大陆商事合同法务场景下的个性化配置。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Guided customization of your commercial contracts practice profile — change one thing
-  without re-running the whole cold-start interview. Adjust risk posture, escalation
-  contacts, playbook positions, NDA triage preferences, house style, review preferences,
-  or matter workspace paths. Use when the user says "change my [thing]", "update my
-  profile", "edit my playbook", "tune my config", or "customize". WorkBuddy
-  中国语境适配：默认中国大陆法域，用于商事合同法务场景下的个性化配置。中文触发词包括：中国法、中国合规、商事合同法务、个性化配置、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆商事合同法务场景下的个性化配置。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

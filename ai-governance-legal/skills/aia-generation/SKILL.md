@@ -1,20 +1,13 @@
 ---
-name: "AI 治理法务-AI 影响评估"
+name: "人工智能治理法务-人工智能影响评估"
 description: >
-  用于中国大陆AI 治理法务场景下的AI 影响评估。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Run an AI impact assessment — structured intake, risk analysis, regulatory
-  classification per regime in scope, policy consistency diff, and recommendation with
-  conditions. Uses the house-style structure learned from the seed impact assessment in
-  `~/.workbuddy/skills/config/workbuddy-cn-legal/ai-governance-legal/CLAUDE.md`. Use when
-  user says "impact assessment for", "assess this AI use case", "run an AIA", "generate an
-  AIA", "we need to document this AI system", "AI risk assessment for X", or follows a
-  conditional triage result. WorkBuddy 中国语境适配：默认中国大陆法域，用于AI 治理法务场景下的AI
-  影响评估。中文触发词包括：中国法、中国合规、AI 治理法务、AI 影响评估、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆人工智能治理法务场景下的人工智能影响评估。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**AI 治理法务**；当前技能：**AI 影响评估**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**人工智能治理法务**；当前技能：**人工智能影响评估**。
 
 在执行下方原流程前，先读取并遵守：
 

@@ -1,14 +1,8 @@
 ---
 name: "公司与交易法务-并购后整合管理"
 description: >
-  用于中国大陆公司与交易法务场景下的并购后整合管理。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Post-closing M&A integration tracker — phased workplan, consent tracking, contract
-  assignment at scale, weekly status reports. Initializes from whatever deal artifacts are
-  available (purchase agreement, deal summary, closing checklist) and connects to
-  deal-context.md and closing-checklist.yaml from the M&A cold-start. Use when user says
-  "integration", "post-close", "post-closing", "consents outstanding", "contract
-  assignment", "integration status", or "what's left on the deal". WorkBuddy
-  中国语境适配：默认中国大陆法域，用于公司与交易法务场景下的并购后整合管理。中文触发词包括：中国法、中国合规、公司与交易法务、并购后整合管理、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆公司与交易法务场景下的并购后整合管理。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

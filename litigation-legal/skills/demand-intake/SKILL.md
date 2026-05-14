@@ -1,13 +1,8 @@
 ---
 name: "争议解决法务-催告/索赔事项接谈"
 description: >
-  用于中国大陆争议解决法务场景下的催告/索赔事项接谈。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  Pre-drafting context gathering for a demand letter — parties, facts, basis, leverage,
-  BATNA, and privilege filters — written to a structured intake.md the demand-draft skill
-  reads. Use when the user wants to prep a demand letter, run intake before drafting, or
-  capture context for a payment demand, breach/cure notice, cease-and-desist, employment
-  separation, or preservation demand. WorkBuddy
-  中国语境适配：默认中国大陆法域，用于争议解决法务场景下的催告/索赔事项接谈。中文触发词包括：中国法、中国合规、争议解决法务、催告/索赔事项接谈、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆争议解决法务场景下的催告/索赔事项接谈。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）

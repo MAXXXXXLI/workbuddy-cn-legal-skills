@@ -1,19 +1,13 @@
 ---
-name: "AI 治理法务-AI 系统清单"
+name: "人工智能治理法务-人工智能系统清单"
 description: >
-  用于中国大陆AI 治理法务场景下的AI 系统清单。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
-  EU AI Act per-system inventory — track each AI system's role (provider, deployer,
-  importer, distributor, authorized representative, product manufacturer) and risk tier
-  (prohibited, high-risk, limited, minimal, GPAI, GPAI+systemic). Role and tier are
-  assessed per system, not per company. Use when the user says "ai inventory", "add an ai
-  system", "what systems do we have", "classify this ai system", "eu ai act register", or
-  "ai system registry". WorkBuddy 中国语境适配：默认中国大陆法域，用于AI 治理法务场景下的AI 系统清单。中文触发词包括：中国法、中国合规、AI
-  治理法务、AI 系统清单、法务审查、律师审阅。输出为草稿或内部分析，需执业律师/法务负责人核验后方可依赖。
+  用于中国大陆人工智能治理法务场景下的人工智能系统清单。适合需要进行法务审查、合规分析、材料整理、风险分级或学习训练时使用。输出默认简体中文；正式依赖前需法务负责人或执业律师核验。
+
 ---
 
 ## WorkBuddy 中国语境适配（优先）
 
-本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**AI 治理法务**；当前技能：**AI 系统清单**。
+本 skill 已转换为 WorkBuddy 中国语境版本。当前模块：**人工智能治理法务**；当前技能：**人工智能系统清单**。
 
 在执行下方原流程前，先读取并遵守：
 
