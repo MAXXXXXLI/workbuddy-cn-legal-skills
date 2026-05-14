@@ -1,0 +1,13 @@
+{
+  "name": "privacy-legal",
+  "version": "1.0.2",
+  "description": "数据合规与个人信息保护：PIPL, Data Security Law, Cybersecurity Law, PIAs/PIPIA, DPA, personal-information rights requests, cross-border data transfer, and policy monitoring.",
+  "author": {
+    "name": "WorkBuddy CN adaptation"
+  },
+  "workbuddy": {
+    "default_jurisdiction": "中国大陆",
+    "global_reference": "references/china-legal-context.md",
+    "module_reference": "references/china-context.md"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "企业微信/飞书/钉钉": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "企业微信/飞书/钉钉",
+      "description": "Search messages, read channels, find discussions across your workspace."
+    },
+    "飞书云文档/企业微信文档/钉钉文档/Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "飞书云文档/企业微信文档/钉钉文档/Google Drive",
+      "description": "Search, read, and fetch documents from 飞书云文档/企业微信文档/钉钉文档/Google Drive."
+    }
+  },
+  "recommendedCategories": [
+    "documents",
+    "chat",
+    "email"
+  ]
+}

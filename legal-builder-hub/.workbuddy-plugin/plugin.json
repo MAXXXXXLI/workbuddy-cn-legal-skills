@@ -1,0 +1,13 @@
+{
+  "name": "legal-builder-hub",
+  "version": "1.0.2",
+  "description": "技能治理中心：Skill discovery, review, install, update, and security-gate workflows adapted for WorkBuddy and a China legal-team environment.",
+  "author": {
+    "name": "WorkBuddy CN adaptation"
+  },
+  "workbuddy": {
+    "default_jurisdiction": "中国大陆",
+    "global_reference": "references/china-legal-context.md",
+    "module_reference": "references/china-context.md"
+  }
+}

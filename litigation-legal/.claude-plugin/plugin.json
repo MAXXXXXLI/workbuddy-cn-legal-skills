@@ -1,0 +1,13 @@
+{
+  "name": "litigation-legal",
+  "version": "1.0.2",
+  "description": "争议解决法务：Litigation/arbitration matter management, chronologies, evidence preservation, claim charts, demand letters, legal holds, counsel status, and brief drafting adapted to PRC civil procedure and arbitration practice.",
+  "author": {
+    "name": "WorkBuddy CN adaptation"
+  },
+  "workbuddy": {
+    "default_jurisdiction": "中国大陆",
+    "global_reference": "references/china-legal-context.md",
+    "module_reference": "references/china-context.md"
+  }
+}

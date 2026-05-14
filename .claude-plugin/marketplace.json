@@ -1,0 +1,112 @@
+{
+  "name": "workbuddy-cn-legal",
+  "owner": {
+    "name": "WorkBuddy CN adaptation"
+  },
+  "plugins": [
+    {
+      "name": "commercial-legal",
+      "source": "./commercial-legal",
+      "description": "商事合同法务：Vendor, customer, SaaS, NDA, renewal, escalation, and stakeholder-summary workflows adapted to PRC contract, data, IP, and dispute-resolution practice.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "privacy-legal",
+      "source": "./privacy-legal",
+      "description": "数据合规与个人信息保护：PIPL, Data Security Law, Cybersecurity Law, PIAs/PIPIA, DPA, personal-information rights requests, cross-border data transfer, and policy monitoring.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "product-legal",
+      "source": "./product-legal",
+      "description": "产品合规法务：Product launch, feature-risk, advertising claims, consumer protection, e-commerce, content, cybersecurity, data, and AI compliance triage for Mainland China.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "corporate-legal",
+      "source": "./corporate-legal",
+      "description": "公司与交易法务：M&A diligence, closing checklists, corporate resolutions, board/shareholder minutes, entity compliance, and integration workflows adapted to PRC company and transaction practice.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "employment-legal",
+      "source": "./employment-legal",
+      "description": "劳动用工法务：Hiring, termination, worker-classification, leave, handbook, internal-investigation, and employment-expansion workflows adapted to PRC labor law and local practice.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "regulatory-legal",
+      "source": "./regulatory-legal",
+      "description": "监管合规法务：China regulatory feed monitoring, public-consultation tracking, policy gap analysis, policy redrafts, and gap tracking across PRC regulators.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "ai-governance-legal",
+      "source": "./ai-governance-legal",
+      "description": "AI 治理法务：AI use-case triage, AI impact assessments, vendor AI review, algorithm/generative-AI compliance, and AI policy monitoring for Mainland China.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "litigation-legal",
+      "source": "./litigation-legal",
+      "description": "争议解决法务：Litigation/arbitration matter management, chronologies, evidence preservation, claim charts, demand letters, legal holds, counsel status, and brief drafting adapted to PRC civil procedure and arbitration practice.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "law-student",
+      "source": "./law-student",
+      "description": "中国法学习：Legal study, case briefing, Socratic drills, legal writing, outlines, flashcards, and PRC legal-profession qualification exam practice.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "legal-clinic",
+      "source": "./legal-clinic",
+      "description": "法律诊所/法律援助：Client intake, memos, research roadmaps, deadlines, client letters, drafting, status, and handoff workflows adapted to Chinese law-school clinics, legal aid, and supervising-lawyer review.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "legal-builder-hub",
+      "source": "./legal-builder-hub",
+      "description": "技能治理中心：Skill discovery, review, install, update, and security-gate workflows adapted for WorkBuddy and a China legal-team environment.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "ip-legal",
+      "source": "./ip-legal",
+      "description": "知识产权法务：Trademark, patent, copyright, trade secret, open-source, IP clause, enforcement, and portfolio workflows adapted to CNIPA, PRC courts, and Chinese platform practice.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    },
+    {
+      "name": "cocounsel-legal",
+      "source": "./external_plugins/cocounsel-legal",
+      "description": "中国法律检索：China-focused legal research workflow using official sources and licensed PRC legal databases when available; Westlaw/CoCounsel references are replaced by PRC research-source expectations.",
+      "author": {
+        "name": "WorkBuddy CN adaptation"
+      }
+    }
+  ]
+}

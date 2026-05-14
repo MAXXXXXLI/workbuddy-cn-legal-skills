@@ -1,0 +1,13 @@
+{
+  "name": "legal-clinic",
+  "version": "1.0.2",
+  "description": "法律诊所/法律援助：Client intake, memos, research roadmaps, deadlines, client letters, drafting, status, and handoff workflows adapted to Chinese law-school clinics, legal aid, and supervising-lawyer review.",
+  "author": {
+    "name": "WorkBuddy CN adaptation"
+  },
+  "workbuddy": {
+    "default_jurisdiction": "中国大陆",
+    "global_reference": "references/china-legal-context.md",
+    "module_reference": "references/china-context.md"
+  }
+}

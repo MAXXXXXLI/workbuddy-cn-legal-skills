@@ -1,0 +1,13 @@
+{
+  "name": "corporate-legal",
+  "version": "1.0.2",
+  "description": "公司与交易法务：M&A diligence, closing checklists, corporate resolutions, board/shareholder minutes, entity compliance, and integration workflows adapted to PRC company and transaction practice.",
+  "author": {
+    "name": "WorkBuddy CN adaptation"
+  },
+  "workbuddy": {
+    "default_jurisdiction": "中国大陆",
+    "global_reference": "references/china-legal-context.md",
+    "module_reference": "references/china-context.md"
+  }
+}
